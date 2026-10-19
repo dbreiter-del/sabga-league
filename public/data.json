@@ -1,494 +1,5566 @@
 {
   "season": "2026 · Series 4",
   "fetched": "19 Oct 2026",
-  "played": "14 / 45",
-  "outstanding": 31,
-  "averagePR": "5.98",
-  "deadline": "6 Dec 2026",
-  "standings": [
-    [
-      "Max Urban",
-      "Urban",
-      4,
-      9,
-      "75.00%",
-      3,
-      3,
-      0,
-      "3.95",
-      1,
-      "75.00%",
-      "0.69"
-    ],
-    [
-      "David Endean",
-      "lordvader",
-      3,
-      6,
-      "66.67%",
-      3,
-      0,
-      0,
-      "10.06",
-      0,
-      "100.00%",
-      "2.36"
-    ],
-    [
-      "Tony Moutzouris",
-      "Rhino",
-      3,
-      6,
-      "66.67%",
-      2,
-      2,
-      0,
-      "4.37",
-      1,
-      "66.67%",
-      "1.01"
-    ],
-    [
-      "Doron Claxton",
-      "majesticdc",
-      4,
-      6,
-      "50.00%",
-      2,
-      2,
-      0,
-      "5.01",
-      2,
-      "50.00%",
-      "-0.08"
-    ],
-    [
-      "Farshad Khoshroo",
-      "Farshad",
-      4,
-      5,
-      "41.67%",
-      2,
-      1,
-      0,
-      "5.69",
-      2,
-      "50.00%",
-      "-0.62"
-    ],
-    [
-      "Jens Aaris",
-      "JensA",
-      2,
-      4,
-      "66.67%",
-      1,
-      2,
-      0,
-      "7.53",
-      1,
-      "50.00%",
-      "-2.13"
-    ],
-    [
-      "Dirk Howsley",
-      "CHEEKYBOY",
-      2,
-      3,
-      "50.00%",
-      1,
-      1,
-      0,
-      "7.01",
-      1,
-      "50.00%",
-      "0.78"
-    ],
-    [
-      "Nick Groll",
-      "NickBG",
-      3,
-      3,
-      "33.33%",
-      0,
-      3,
-      0,
-      "4.83",
-      3,
-      "0.00%",
-      "-1.93"
-    ],
-    [
-      "Michael Hagglund",
-      "MikeHagg",
-      1,
-      0,
-      "0.00%",
-      0,
-      0,
-      0,
-      "5.51",
-      1,
-      "0.00%",
-      "-0.48"
-    ],
-    [
-      "Kerry Baragwanath",
-      "CubinKerry",
-      2,
-      0,
-      "0.00%",
-      0,
-      0,
-      0,
-      "8.25",
-      2,
-      "0.00%",
-      "-2.00"
-    ]
-  ],
-  "results": [
-    [
-      "2026-10-19",
-      "Tony Moutzouris",
-      "Rhino",
-      11,
-      0,
-      "Nick Groll",
-      "NickBG",
-      "5.97",
-      "5.36"
-    ],
-    [
-      "2026-10-14",
-      "Doron Claxton",
-      "majesticdc",
-      9,
-      11,
-      "Max Urban",
-      "Urban",
-      "5.18",
-      "4.25"
-    ],
-    [
-      "2026-10-13",
-      "Dirk Howsley",
-      "CHEEKYBOY",
-      1,
-      11,
-      "Max Urban",
-      "Urban",
-      "9.38",
-      "3.04"
-    ],
-    [
-      "2026-10-12",
-      "Max Urban",
-      "Urban",
-      11,
-      2,
-      "Kerry Baragwanath",
-      "CubinKerry",
-      "3.17",
-      "9.29"
-    ],
-    [
-      "2026-10-12",
-      "David Endean",
-      "lordvader",
-      11,
-      1,
-      "Nick Groll",
-      "NickBG",
-      "11.22",
-      "4.32"
-    ],
-    [
-      "2026-10-11",
-      "Jens Aaris",
-      "JensA",
-      5,
-      11,
-      "David Endean",
-      "lordvader",
-      "8.91",
-      "10.43"
-    ],
-    [
-      "2026-10-08",
-      "Tony Moutzouris",
-      "Rhino",
-      11,
-      0,
-      "Farshad Khoshroo",
-      "Farshad",
-      "3.17",
-      "4.77"
-    ],
-    [
-      "2026-10-07",
-      "Jens Aaris",
-      "JensA",
-      11,
-      9,
-      "Kerry Baragwanath",
-      "CubinKerry",
-      "6.16",
-      "7.22"
-    ],
-    [
-      "2026-10-06",
-      "Doron Claxton",
-      "majesticdc",
-      9,
-      11,
-      "Farshad Khoshroo",
-      "Farshad",
-      "3.66",
-      "4.54"
-    ],
-    [
-      "2026-10-06",
-      "Tony Moutzouris",
-      "Rhino",
-      9,
-      11,
-      "David Endean",
-      "lordvader",
-      "3.96",
-      "8.53"
-    ],
-    [
-      "2026-10-06",
-      "Dirk Howsley",
-      "CHEEKYBOY",
-      11,
-      5,
-      "Farshad Khoshroo",
-      "Farshad",
-      "4.63",
-      "8.66"
-    ],
-    [
-      "2026-09-28",
-      "Doron Claxton",
-      "majesticdc",
-      11,
-      4,
-      "Nick Groll",
-      "NickBG",
-      "7.26",
-      "4.82"
-    ],
-    [
-      "2026-09-27",
-      "Michael Hagglund",
-      "MikeHagg",
-      10,
-      11,
-      "Doron Claxton",
-      "majesticdc",
-      "5.51",
-      "3.93"
-    ],
-    [
-      "2026-09-26",
-      "Farshad Khoshroo",
-      "Farshad",
-      11,
-      6,
-      "Max Urban",
-      "Urban",
-      "4.81",
-      "5.34"
-    ]
-  ],
-  "fixtures": [
-    [
-      "David Endean",
-      "lordvader",
-      "Farshad Khoshroo",
-      "Farshad"
-    ],
-    [
-      "David Endean",
-      "lordvader",
-      "Kerry Baragwanath",
-      "CubinKerry"
-    ],
-    [
-      "Dirk Howsley",
-      "CHEEKYBOY",
-      "David Endean",
-      "lordvader"
-    ],
-    [
-      "Dirk Howsley",
-      "CHEEKYBOY",
-      "Doron Claxton",
-      "majesticdc"
-    ],
-    [
-      "Dirk Howsley",
-      "CHEEKYBOY",
-      "Jens Aaris",
-      "JensA"
-    ],
-    [
-      "Dirk Howsley",
-      "CHEEKYBOY",
-      "Kerry Baragwanath",
-      "CubinKerry"
-    ],
-    [
-      "Dirk Howsley",
-      "CHEEKYBOY",
-      "Nick Groll",
-      "NickBG"
-    ],
-    [
-      "Doron Claxton",
-      "majesticdc",
-      "David Endean",
-      "lordvader"
-    ],
-    [
-      "Doron Claxton",
-      "majesticdc",
-      "Jens Aaris",
-      "JensA"
-    ],
-    [
-      "Doron Claxton",
-      "majesticdc",
-      "Kerry Baragwanath",
-      "CubinKerry"
-    ],
-    [
-      "Farshad Khoshroo",
-      "Farshad",
-      "Kerry Baragwanath",
-      "CubinKerry"
-    ],
-    [
-      "Farshad Khoshroo",
-      "Farshad",
-      "Nick Groll",
-      "NickBG"
-    ],
-    [
-      "Jens Aaris",
-      "JensA",
-      "Farshad Khoshroo",
-      "Farshad"
-    ],
-    [
-      "Jens Aaris",
-      "JensA",
-      "Nick Groll",
-      "NickBG"
-    ],
-    [
-      "Max Urban",
-      "Urban",
-      "David Endean",
-      "lordvader"
-    ],
-    [
-      "Max Urban",
-      "Urban",
-      "Jens Aaris",
-      "JensA"
-    ],
-    [
-      "Max Urban",
-      "Urban",
-      "Michael Hagglund",
-      "MikeHagg"
-    ],
-    [
-      "Max Urban",
-      "Urban",
-      "Nick Groll",
-      "NickBG"
-    ],
-    [
-      "Max Urban",
-      "Urban",
-      "Tony Moutzouris",
-      "Rhino"
-    ],
-    [
-      "Michael Hagglund",
-      "MikeHagg",
-      "David Endean",
-      "lordvader"
-    ],
-    [
-      "Michael Hagglund",
-      "MikeHagg",
-      "Dirk Howsley",
-      "CHEEKYBOY"
-    ],
-    [
-      "Michael Hagglund",
-      "MikeHagg",
-      "Farshad Khoshroo",
-      "Farshad"
-    ],
-    [
-      "Michael Hagglund",
-      "MikeHagg",
-      "Jens Aaris",
-      "JensA"
-    ],
-    [
-      "Michael Hagglund",
-      "MikeHagg",
-      "Kerry Baragwanath",
-      "CubinKerry"
-    ],
-    [
-      "Michael Hagglund",
-      "MikeHagg",
-      "Nick Groll",
-      "NickBG"
-    ],
-    [
-      "Nick Groll",
-      "NickBG",
-      "Kerry Baragwanath",
-      "CubinKerry"
-    ],
-    [
-      "Tony Moutzouris",
-      "Rhino",
-      "Dirk Howsley",
-      "CHEEKYBOY"
-    ],
-    [
-      "Tony Moutzouris",
-      "Rhino",
-      "Doron Claxton",
-      "majesticdc"
-    ],
-    [
-      "Tony Moutzouris",
-      "Rhino",
-      "Jens Aaris",
-      "JensA"
-    ],
-    [
-      "Tony Moutzouris",
-      "Rhino",
-      "Kerry Baragwanath",
-      "CubinKerry"
-    ],
-    [
-      "Tony Moutzouris",
-      "Rhino",
-      "Michael Hagglund",
-      "MikeHagg"
-    ]
-  ]
+  "leagues": {
+    "A-League": {
+      "played": "14 / 45",
+      "outstanding": 31,
+      "averagePR": "5.98",
+      "deadline": "6 Dec 2026",
+      "standings": [
+        [
+          "Max Urban",
+          "Urban",
+          "4",
+          "9",
+          "75.00%",
+          "3",
+          "3",
+          "0",
+          "3.95",
+          "1",
+          "75.00%",
+          "0.69"
+        ],
+        [
+          "David Endean",
+          "lordvader",
+          "3",
+          "6",
+          "66.67%",
+          "3",
+          "0",
+          "0",
+          "10.06",
+          "0",
+          "100.00%",
+          "2.36"
+        ],
+        [
+          "Tony Moutzouris",
+          "Rhino",
+          "3",
+          "6",
+          "66.67%",
+          "2",
+          "2",
+          "0",
+          "4.37",
+          "1",
+          "66.67%",
+          "1.01"
+        ],
+        [
+          "Doron Claxton",
+          "majesticdc",
+          "4",
+          "6",
+          "50.00%",
+          "2",
+          "2",
+          "0",
+          "5.01",
+          "2",
+          "50.00%",
+          "-0.08"
+        ],
+        [
+          "Farshad Khoshroo",
+          "Farshad",
+          "4",
+          "5",
+          "41.67%",
+          "2",
+          "1",
+          "0",
+          "5.69",
+          "2",
+          "50.00%",
+          "-0.62"
+        ],
+        [
+          "Jens Aaris",
+          "JensA",
+          "2",
+          "4",
+          "66.67%",
+          "1",
+          "2",
+          "0",
+          "7.53",
+          "1",
+          "50.00%",
+          "-2.13"
+        ],
+        [
+          "Dirk Howsley",
+          "CHEEKYBOY",
+          "2",
+          "3",
+          "50.00%",
+          "1",
+          "1",
+          "0",
+          "7.01",
+          "1",
+          "50.00%",
+          "0.78"
+        ],
+        [
+          "Nick Groll",
+          "NickBG",
+          "3",
+          "3",
+          "33.33%",
+          "0",
+          "3",
+          "0",
+          "4.83",
+          "3",
+          "0.00%",
+          "-1.93"
+        ],
+        [
+          "Michael Hagglund",
+          "MikeHagg",
+          "1",
+          "0",
+          "0.00%",
+          "0",
+          "0",
+          "0",
+          "5.51",
+          "1",
+          "0.00%",
+          "-0.48"
+        ],
+        [
+          "Kerry Baragwanath",
+          "CubinKerry",
+          "2",
+          "0",
+          "0.00%",
+          "0",
+          "0",
+          "0",
+          "8.25",
+          "2",
+          "0.00%",
+          "-2.00"
+        ]
+      ],
+      "fixtures": [
+        [
+          "David Endean",
+          "lordvader",
+          "Farshad Khoshroo",
+          "Farshad"
+        ],
+        [
+          "David Endean",
+          "lordvader",
+          "Kerry Baragwanath",
+          "CubinKerry"
+        ],
+        [
+          "Dirk Howsley",
+          "CHEEKYBOY",
+          "David Endean",
+          "lordvader"
+        ],
+        [
+          "Dirk Howsley",
+          "CHEEKYBOY",
+          "Doron Claxton",
+          "majesticdc"
+        ],
+        [
+          "Dirk Howsley",
+          "CHEEKYBOY",
+          "Jens Aaris",
+          "JensA"
+        ],
+        [
+          "Dirk Howsley",
+          "CHEEKYBOY",
+          "Kerry Baragwanath",
+          "CubinKerry"
+        ],
+        [
+          "Dirk Howsley",
+          "CHEEKYBOY",
+          "Nick Groll",
+          "NickBG"
+        ],
+        [
+          "Doron Claxton",
+          "majesticdc",
+          "David Endean",
+          "lordvader"
+        ],
+        [
+          "Doron Claxton",
+          "majesticdc",
+          "Jens Aaris",
+          "JensA"
+        ],
+        [
+          "Doron Claxton",
+          "majesticdc",
+          "Kerry Baragwanath",
+          "CubinKerry"
+        ],
+        [
+          "Farshad Khoshroo",
+          "Farshad",
+          "Kerry Baragwanath",
+          "CubinKerry"
+        ],
+        [
+          "Farshad Khoshroo",
+          "Farshad",
+          "Nick Groll",
+          "NickBG"
+        ],
+        [
+          "Jens Aaris",
+          "JensA",
+          "Farshad Khoshroo",
+          "Farshad"
+        ],
+        [
+          "Jens Aaris",
+          "JensA",
+          "Nick Groll",
+          "NickBG"
+        ],
+        [
+          "Max Urban",
+          "Urban",
+          "David Endean",
+          "lordvader"
+        ],
+        [
+          "Max Urban",
+          "Urban",
+          "Jens Aaris",
+          "JensA"
+        ],
+        [
+          "Max Urban",
+          "Urban",
+          "Michael Hagglund",
+          "MikeHagg"
+        ],
+        [
+          "Max Urban",
+          "Urban",
+          "Nick Groll",
+          "NickBG"
+        ],
+        [
+          "Max Urban",
+          "Urban",
+          "Tony Moutzouris",
+          "Rhino"
+        ],
+        [
+          "Michael Hagglund",
+          "MikeHagg",
+          "David Endean",
+          "lordvader"
+        ],
+        [
+          "Michael Hagglund",
+          "MikeHagg",
+          "Dirk Howsley",
+          "CHEEKYBOY"
+        ],
+        [
+          "Michael Hagglund",
+          "MikeHagg",
+          "Farshad Khoshroo",
+          "Farshad"
+        ],
+        [
+          "Michael Hagglund",
+          "MikeHagg",
+          "Jens Aaris",
+          "JensA"
+        ],
+        [
+          "Michael Hagglund",
+          "MikeHagg",
+          "Kerry Baragwanath",
+          "CubinKerry"
+        ],
+        [
+          "Michael Hagglund",
+          "MikeHagg",
+          "Nick Groll",
+          "NickBG"
+        ],
+        [
+          "Nick Groll",
+          "NickBG",
+          "Kerry Baragwanath",
+          "CubinKerry"
+        ],
+        [
+          "Tony Moutzouris",
+          "Rhino",
+          "Dirk Howsley",
+          "CHEEKYBOY"
+        ],
+        [
+          "Tony Moutzouris",
+          "Rhino",
+          "Doron Claxton",
+          "majesticdc"
+        ],
+        [
+          "Tony Moutzouris",
+          "Rhino",
+          "Jens Aaris",
+          "JensA"
+        ],
+        [
+          "Tony Moutzouris",
+          "Rhino",
+          "Kerry Baragwanath",
+          "CubinKerry"
+        ],
+        [
+          "Tony Moutzouris",
+          "Rhino",
+          "Michael Hagglund",
+          "MikeHagg"
+        ]
+      ],
+      "results": [
+        [
+          "2026-10-19",
+          "Tony Moutzouris",
+          "Rhino",
+          11,
+          0,
+          "Nick Groll",
+          "NickBG",
+          "5.97",
+          "5.36"
+        ],
+        [
+          "2026-10-14",
+          "Doron Claxton",
+          "majesticdc",
+          9,
+          11,
+          "Max Urban",
+          "Urban",
+          "5.18",
+          "4.25"
+        ],
+        [
+          "2026-10-13",
+          "Dirk Howsley",
+          "CHEEKYBOY",
+          1,
+          11,
+          "Max Urban",
+          "Urban",
+          "9.38",
+          "3.04"
+        ],
+        [
+          "2026-10-12",
+          "Max Urban",
+          "Urban",
+          11,
+          2,
+          "Kerry Baragwanath",
+          "CubinKerry",
+          "3.17",
+          "9.29"
+        ],
+        [
+          "2026-10-12",
+          "David Endean",
+          "lordvader",
+          11,
+          1,
+          "Nick Groll",
+          "NickBG",
+          "11.22",
+          "4.32"
+        ],
+        [
+          "2026-10-11",
+          "Jens Aaris",
+          "JensA",
+          5,
+          11,
+          "David Endean",
+          "lordvader",
+          "8.91",
+          "10.43"
+        ],
+        [
+          "2026-10-08",
+          "Tony Moutzouris",
+          "Rhino",
+          11,
+          0,
+          "Farshad Khoshroo",
+          "Farshad",
+          "3.17",
+          "4.77"
+        ],
+        [
+          "2026-10-07",
+          "Jens Aaris",
+          "JensA",
+          11,
+          9,
+          "Kerry Baragwanath",
+          "CubinKerry",
+          "6.16",
+          "7.22"
+        ],
+        [
+          "2026-10-06",
+          "Doron Claxton",
+          "majesticdc",
+          9,
+          11,
+          "Farshad Khoshroo",
+          "Farshad",
+          "3.66",
+          "4.54"
+        ],
+        [
+          "2026-10-06",
+          "Tony Moutzouris",
+          "Rhino",
+          9,
+          11,
+          "David Endean",
+          "lordvader",
+          "3.96",
+          "8.53"
+        ],
+        [
+          "2026-10-06",
+          "Dirk Howsley",
+          "CHEEKYBOY",
+          11,
+          5,
+          "Farshad Khoshroo",
+          "Farshad",
+          "4.63",
+          "8.66"
+        ],
+        [
+          "2026-09-28",
+          "Doron Claxton",
+          "majesticdc",
+          11,
+          4,
+          "Nick Groll",
+          "NickBG",
+          "7.26",
+          "4.82"
+        ],
+        [
+          "2026-09-27",
+          "Michael Hagglund",
+          "MikeHagg",
+          10,
+          11,
+          "Doron Claxton",
+          "majesticdc",
+          "5.51",
+          "3.93"
+        ],
+        [
+          "2026-09-26",
+          "Farshad Khoshroo",
+          "Farshad",
+          11,
+          6,
+          "Max Urban",
+          "Urban",
+          "4.81",
+          "5.34"
+        ]
+      ]
+    },
+    "B-League": {
+      "played": "26 / 45",
+      "outstanding": 19,
+      "averagePR": "8.53",
+      "deadline": "6 Dec 2026",
+      "standings": [
+        [
+          "Peter Wisniewski",
+          "Pantera",
+          "9",
+          "25",
+          "92.59%",
+          "8",
+          "9",
+          "0",
+          "6.49",
+          "1",
+          "88.89%",
+          "1.67"
+        ],
+        [
+          "Amanda Lazard",
+          "AMANDA11",
+          "9",
+          "10",
+          "37.04%",
+          "4",
+          "2",
+          "0",
+          "8.91",
+          "5",
+          "44.44%",
+          "0.59"
+        ],
+        [
+          "Andrew Schafer",
+          "HighRoller73",
+          "5",
+          "8",
+          "53.33%",
+          "3",
+          "2",
+          "0",
+          "9.28",
+          "2",
+          "60.00%",
+          "0.32"
+        ],
+        [
+          "Omri Thomas",
+          "Omrithomas",
+          "4",
+          "7",
+          "58.33%",
+          "3",
+          "1",
+          "0",
+          "13.32",
+          "1",
+          "75.00%",
+          "-0.45"
+        ],
+        [
+          "Sophia Phirippides",
+          "SophiaP",
+          "4",
+          "7",
+          "58.33%",
+          "2",
+          "3",
+          "0",
+          "7.44",
+          "2",
+          "50.00%",
+          "0.51"
+        ],
+        [
+          "Jacques Rall",
+          "Dude",
+          "4",
+          "7",
+          "58.33%",
+          "2",
+          "3",
+          "0",
+          "7.89",
+          "2",
+          "50.00%",
+          "-1.52"
+        ],
+        [
+          "Wallie van der Walt",
+          "WvdW",
+          "6",
+          "6",
+          "33.33%",
+          "2",
+          "2",
+          "0",
+          "7.20",
+          "4",
+          "33.33%",
+          "-0.68"
+        ],
+        [
+          "Jean-Marc Grand",
+          "JohnMark",
+          "6",
+          "4",
+          "22.22%",
+          "1",
+          "2",
+          "0",
+          "9.54",
+          "5",
+          "16.67%",
+          "-1.07"
+        ],
+        [
+          "Steve Solomon",
+          "SteveS",
+          "3",
+          "3",
+          "33.33%",
+          "1",
+          "1",
+          "0",
+          "9.25",
+          "2",
+          "33.33%",
+          "-0.57"
+        ],
+        [
+          "Bernard Schäfer",
+          "Bagatelle",
+          "2",
+          "1",
+          "16.67%",
+          "0",
+          "1",
+          "0",
+          "7.83",
+          "2",
+          "0.00%",
+          "0.41"
+        ]
+      ],
+      "fixtures": [
+        [
+          "Andrew Schafer",
+          "HighRoller73",
+          "Omri Thomas",
+          "Omrithomas"
+        ],
+        [
+          "Andrew Schafer",
+          "HighRoller73",
+          "Sophia Phirippides",
+          "SophiaP"
+        ],
+        [
+          "Andrew Schafer",
+          "HighRoller73",
+          "Steve Solomon",
+          "SteveS"
+        ],
+        [
+          "Bernard Schäfer",
+          "Bagatelle",
+          "Andrew Schafer",
+          "HighRoller73"
+        ],
+        [
+          "Bernard Schäfer",
+          "Bagatelle",
+          "Jean-Marc Grand",
+          "JohnMark"
+        ],
+        [
+          "Bernard Schäfer",
+          "Bagatelle",
+          "Omri Thomas",
+          "Omrithomas"
+        ],
+        [
+          "Bernard Schäfer",
+          "Bagatelle",
+          "Sophia Phirippides",
+          "SophiaP"
+        ],
+        [
+          "Bernard Schäfer",
+          "Bagatelle",
+          "Steve Solomon",
+          "SteveS"
+        ],
+        [
+          "Jacques Rall",
+          "Dude",
+          "Bernard Schäfer",
+          "Bagatelle"
+        ],
+        [
+          "Jacques Rall",
+          "Dude",
+          "Jean-Marc Grand",
+          "JohnMark"
+        ],
+        [
+          "Jacques Rall",
+          "Dude",
+          "Omri Thomas",
+          "Omrithomas"
+        ],
+        [
+          "Jacques Rall",
+          "Dude",
+          "Sophia Phirippides",
+          "SophiaP"
+        ],
+        [
+          "Jacques Rall",
+          "Dude",
+          "Steve Solomon",
+          "SteveS"
+        ],
+        [
+          "Sophia Phirippides",
+          "SophiaP",
+          "Omri Thomas",
+          "Omrithomas"
+        ],
+        [
+          "Sophia Phirippides",
+          "SophiaP",
+          "Steve Solomon",
+          "SteveS"
+        ],
+        [
+          "Steve Solomon",
+          "SteveS",
+          "Jean-Marc Grand",
+          "JohnMark"
+        ],
+        [
+          "Wallie van der Walt",
+          "WvdW",
+          "Bernard Schäfer",
+          "Bagatelle"
+        ],
+        [
+          "Wallie van der Walt",
+          "WvdW",
+          "Omri Thomas",
+          "Omrithomas"
+        ],
+        [
+          "Wallie van der Walt",
+          "WvdW",
+          "Steve Solomon",
+          "SteveS"
+        ]
+      ],
+      "results": [
+        [
+          "2026-10-18",
+          "Amanda Lazard",
+          "AMANDA11",
+          10,
+          11,
+          "Andrew Schafer",
+          "HighRoller73",
+          "7.57",
+          "5.64"
+        ],
+        [
+          "2026-10-18",
+          "Wallie van der Walt",
+          "WvdW",
+          7,
+          11,
+          "Andrew Schafer",
+          "HighRoller73",
+          "9.93",
+          "8.93"
+        ],
+        [
+          "2026-10-17",
+          "Jean-Marc Grand",
+          "JohnMark",
+          10,
+          11,
+          "Andrew Schafer",
+          "HighRoller73",
+          "11.02",
+          "11.24"
+        ],
+        [
+          "2026-10-14",
+          "Sophia Phirippides",
+          "SophiaP",
+          11,
+          5,
+          "Jean-Marc Grand",
+          "JohnMark",
+          "9.06",
+          "14.21"
+        ],
+        [
+          "2026-10-12",
+          "Jacques Rall",
+          "Dude",
+          11,
+          5,
+          "Andrew Schafer",
+          "HighRoller73",
+          "9.02",
+          "10.74"
+        ],
+        [
+          "2026-10-12",
+          "Amanda Lazard",
+          "AMANDA11",
+          11,
+          9,
+          "Bernard Schäfer",
+          "Bagatelle",
+          "11.19",
+          "8.41"
+        ],
+        [
+          "2026-10-08",
+          "Peter Wisniewski",
+          "Pantera",
+          11,
+          3,
+          "Bernard Schäfer",
+          "Bagatelle",
+          "4.09",
+          "7.26"
+        ],
+        [
+          "2026-10-06",
+          "Amanda Lazard",
+          "AMANDA11",
+          3,
+          11,
+          "Wallie van der Walt",
+          "WvdW",
+          "6.03",
+          "3.24"
+        ],
+        [
+          "2026-10-05",
+          "Peter Wisniewski",
+          "Pantera",
+          11,
+          9,
+          "Jean-Marc Grand",
+          "JohnMark",
+          "8.17",
+          "12.28"
+        ],
+        [
+          "2026-10-03",
+          "Peter Wisniewski",
+          "Pantera",
+          11,
+          6,
+          "Andrew Schafer",
+          "HighRoller73",
+          "6.85",
+          "9.85"
+        ],
+        [
+          "2026-10-03",
+          "Omri Thomas",
+          "Omrithomas",
+          11,
+          4,
+          "Amanda Lazard",
+          "AMANDA11",
+          "7.13",
+          "7.88"
+        ],
+        [
+          "2026-10-01",
+          "Amanda Lazard",
+          "AMANDA11",
+          8,
+          11,
+          "Steve Solomon",
+          "SteveS",
+          "6.58",
+          "7.51"
+        ],
+        [
+          "2026-09-29",
+          "Steve Solomon",
+          "SteveS",
+          8,
+          11,
+          "Peter Wisniewski",
+          "Pantera",
+          "6.07",
+          "5.25"
+        ],
+        [
+          "2026-09-26",
+          "Omri Thomas",
+          "Omrithomas",
+          11,
+          7,
+          "Steve Solomon",
+          "SteveS",
+          "17.64",
+          "14.15"
+        ],
+        [
+          "2026-09-25",
+          "Jacques Rall",
+          "Dude",
+          5,
+          11,
+          "Amanda Lazard",
+          "AMANDA11",
+          "8.75",
+          "10.89"
+        ],
+        [
+          "2026-09-24",
+          "Amanda Lazard",
+          "AMANDA11",
+          11,
+          8,
+          "Sophia Phirippides",
+          "SophiaP",
+          "10.29",
+          "9.92"
+        ],
+        [
+          "2026-09-23",
+          "Peter Wisniewski",
+          "Pantera",
+          11,
+          5,
+          "Sophia Phirippides",
+          "SophiaP",
+          "4.67",
+          "4.75"
+        ],
+        [
+          "2026-09-23",
+          "Jean-Marc Grand",
+          "JohnMark",
+          9,
+          11,
+          "Omri Thomas",
+          "Omrithomas",
+          "6.25",
+          "18.07"
+        ],
+        [
+          "2026-09-21",
+          "Amanda Lazard",
+          "AMANDA11",
+          3,
+          11,
+          "Peter Wisniewski",
+          "Pantera",
+          "13.49",
+          "9.75"
+        ],
+        [
+          "2026-09-21",
+          "Amanda Lazard",
+          "AMANDA11",
+          11,
+          0,
+          "Jean-Marc Grand",
+          "JohnMark",
+          "6.29",
+          "7.53"
+        ],
+        [
+          "2026-09-20",
+          "Sophia Phirippides",
+          "SophiaP",
+          11,
+          8,
+          "Wallie van der Walt",
+          "WvdW",
+          "6.03",
+          "7.64"
+        ],
+        [
+          "2026-09-19",
+          "Jacques Rall",
+          "Dude",
+          3,
+          11,
+          "Peter Wisniewski",
+          "Pantera",
+          "7.68",
+          "5.67"
+        ],
+        [
+          "2026-09-17",
+          "Wallie van der Walt",
+          "WvdW",
+          11,
+          10,
+          "Peter Wisniewski",
+          "Pantera",
+          "9.20",
+          "8.04"
+        ],
+        [
+          "2026-09-16",
+          "Jean-Marc Grand",
+          "JohnMark",
+          11,
+          2,
+          "Wallie van der Walt",
+          "WvdW",
+          "5.92",
+          "5.13"
+        ],
+        [
+          "2026-09-16",
+          "Omri Thomas",
+          "Omrithomas",
+          4,
+          11,
+          "Peter Wisniewski",
+          "Pantera",
+          "10.42",
+          "5.94"
+        ],
+        [
+          "2026-09-15",
+          "Jacques Rall",
+          "Dude",
+          11,
+          9,
+          "Wallie van der Walt",
+          "WvdW",
+          "6.09",
+          "8.08"
+        ]
+      ]
+    },
+    "C-League": {
+      "played": "16 / 45",
+      "outstanding": 29,
+      "averagePR": "10.01",
+      "deadline": "6 Dec 2026",
+      "standings": [
+        [
+          "Matt Ryder",
+          "abyssgazer",
+          "4",
+          "7",
+          "58.33%",
+          "2",
+          "3",
+          "0",
+          "7.41",
+          "2",
+          "50.00%",
+          "1.28"
+        ],
+        [
+          "Nick Aliferis",
+          "NickA",
+          "4",
+          "7",
+          "58.33%",
+          "2",
+          "3",
+          "0",
+          "9.15",
+          "2",
+          "50.00%",
+          "-1.32"
+        ],
+        [
+          "Ami Kapilevich",
+          "Vedderhead",
+          "4",
+          "6",
+          "50.00%",
+          "3",
+          "0",
+          "0",
+          "10.96",
+          "1",
+          "75.00%",
+          "1.36"
+        ],
+        [
+          "Virg da Silva",
+          "Wrangler",
+          "3",
+          "6",
+          "66.67%",
+          "2",
+          "2",
+          "0",
+          "9.99",
+          "1",
+          "66.67%",
+          "-1.22"
+        ],
+        [
+          "Reinhard Borzechowski",
+          "rzabg",
+          "5",
+          "6",
+          "40.00%",
+          "2",
+          "2",
+          "0",
+          "12.66",
+          "3",
+          "40.00%",
+          "1.54"
+        ],
+        [
+          "Doron Goldberg",
+          "Goldfinger",
+          "2",
+          "4",
+          "66.67%",
+          "1",
+          "2",
+          "0",
+          "8.18",
+          "1",
+          "50.00%",
+          "-1.12"
+        ],
+        [
+          "Daphne Ryder",
+          "Freya",
+          "4",
+          "4",
+          "33.33%",
+          "1",
+          "2",
+          "0",
+          "9.24",
+          "3",
+          "25.00%",
+          "-0.11"
+        ],
+        [
+          "Rob Kennedy",
+          "RobK",
+          "2",
+          "3",
+          "50.00%",
+          "1",
+          "1",
+          "0",
+          "7.92",
+          "1",
+          "50.00%",
+          "0.94"
+        ],
+        [
+          "Mayer Abdolaziz",
+          "Mayerbg",
+          "2",
+          "3",
+          "50.00%",
+          "1",
+          "1",
+          "0",
+          "10.66",
+          "1",
+          "50.00%",
+          "1.26"
+        ],
+        [
+          "Avi Goshen",
+          "Avi_G",
+          "2",
+          "2",
+          "33.33%",
+          "1",
+          "0",
+          "0",
+          "13.26",
+          "1",
+          "50.00%",
+          "-0.77"
+        ]
+      ],
+      "fixtures": [
+        [
+          "Ami Kapilevich",
+          "Vedderhead",
+          "Avi Goshen",
+          "Avi_G"
+        ],
+        [
+          "Ami Kapilevich",
+          "Vedderhead",
+          "Matt Ryder",
+          "abyssgazer"
+        ],
+        [
+          "Avi Goshen",
+          "Avi_G",
+          "Reinhard Borzechowski",
+          "rzabg"
+        ],
+        [
+          "Avi Goshen",
+          "Avi_G",
+          "Virg da Silva",
+          "Wrangler"
+        ],
+        [
+          "Daphne Ryder",
+          "Freya",
+          "Avi Goshen",
+          "Avi_G"
+        ],
+        [
+          "Daphne Ryder",
+          "Freya",
+          "Doron Goldberg",
+          "Goldfinger"
+        ],
+        [
+          "Daphne Ryder",
+          "Freya",
+          "Reinhard Borzechowski",
+          "rzabg"
+        ],
+        [
+          "Daphne Ryder",
+          "Freya",
+          "Virg da Silva",
+          "Wrangler"
+        ],
+        [
+          "Doron Goldberg",
+          "Goldfinger",
+          "Ami Kapilevich",
+          "Vedderhead"
+        ],
+        [
+          "Doron Goldberg",
+          "Goldfinger",
+          "Matt Ryder",
+          "abyssgazer"
+        ],
+        [
+          "Doron Goldberg",
+          "Goldfinger",
+          "Mayer Abdolaziz",
+          "Mayerbg"
+        ],
+        [
+          "Doron Goldberg",
+          "Goldfinger",
+          "Reinhard Borzechowski",
+          "rzabg"
+        ],
+        [
+          "Matt Ryder",
+          "abyssgazer",
+          "Virg da Silva",
+          "Wrangler"
+        ],
+        [
+          "Mayer Abdolaziz",
+          "Mayerbg",
+          "Ami Kapilevich",
+          "Vedderhead"
+        ],
+        [
+          "Mayer Abdolaziz",
+          "Mayerbg",
+          "Avi Goshen",
+          "Avi_G"
+        ],
+        [
+          "Mayer Abdolaziz",
+          "Mayerbg",
+          "Matt Ryder",
+          "abyssgazer"
+        ],
+        [
+          "Mayer Abdolaziz",
+          "Mayerbg",
+          "Virg da Silva",
+          "Wrangler"
+        ],
+        [
+          "Nick Aliferis",
+          "NickA",
+          "Avi Goshen",
+          "Avi_G"
+        ],
+        [
+          "Nick Aliferis",
+          "NickA",
+          "Doron Goldberg",
+          "Goldfinger"
+        ],
+        [
+          "Nick Aliferis",
+          "NickA",
+          "Mayer Abdolaziz",
+          "Mayerbg"
+        ],
+        [
+          "Nick Aliferis",
+          "NickA",
+          "Reinhard Borzechowski",
+          "rzabg"
+        ],
+        [
+          "Nick Aliferis",
+          "NickA",
+          "Virg da Silva",
+          "Wrangler"
+        ],
+        [
+          "Rob Kennedy",
+          "RobK",
+          "Ami Kapilevich",
+          "Vedderhead"
+        ],
+        [
+          "Rob Kennedy",
+          "RobK",
+          "Avi Goshen",
+          "Avi_G"
+        ],
+        [
+          "Rob Kennedy",
+          "RobK",
+          "Daphne Ryder",
+          "Freya"
+        ],
+        [
+          "Rob Kennedy",
+          "RobK",
+          "Doron Goldberg",
+          "Goldfinger"
+        ],
+        [
+          "Rob Kennedy",
+          "RobK",
+          "Matt Ryder",
+          "abyssgazer"
+        ],
+        [
+          "Rob Kennedy",
+          "RobK",
+          "Mayer Abdolaziz",
+          "Mayerbg"
+        ],
+        [
+          "Rob Kennedy",
+          "RobK",
+          "Virg da Silva",
+          "Wrangler"
+        ]
+      ],
+      "results": [
+        [
+          "2026-10-17",
+          "Virg da Silva",
+          "Wrangler",
+          8,
+          11,
+          "Reinhard Borzechowski",
+          "rzabg",
+          "8.38",
+          "13.63"
+        ],
+        [
+          "2026-10-13",
+          "Doron Goldberg",
+          "Goldfinger",
+          5,
+          11,
+          "Virg da Silva",
+          "Wrangler",
+          "10.87",
+          "11.82"
+        ],
+        [
+          "2026-10-11",
+          "Avi Goshen",
+          "Avi_G",
+          11,
+          8,
+          "Matt Ryder",
+          "abyssgazer",
+          "13.64",
+          "10.04"
+        ],
+        [
+          "2026-10-11",
+          "Ami Kapilevich",
+          "Vedderhead",
+          11,
+          1,
+          "Reinhard Borzechowski",
+          "rzabg",
+          "9.15",
+          "7.73"
+        ],
+        [
+          "2026-10-10",
+          "Avi Goshen",
+          "Avi_G",
+          4,
+          11,
+          "Doron Goldberg",
+          "Goldfinger",
+          "12.89",
+          "5.48"
+        ],
+        [
+          "2026-10-09",
+          "Reinhard Borzechowski",
+          "rzabg",
+          3,
+          11,
+          "Rob Kennedy",
+          "RobK",
+          "8.29",
+          "9.38"
+        ],
+        [
+          "2026-10-04",
+          "Daphne Ryder",
+          "Freya",
+          6,
+          11,
+          "Nick Aliferis",
+          "NickA",
+          "10.65",
+          "8.93"
+        ],
+        [
+          "2026-10-04",
+          "Ami Kapilevich",
+          "Vedderhead",
+          9,
+          11,
+          "Virg da Silva",
+          "Wrangler",
+          "10.36",
+          "9.77"
+        ],
+        [
+          "2026-10-01",
+          "Nick Aliferis",
+          "NickA",
+          11,
+          9,
+          "Rob Kennedy",
+          "RobK",
+          "10.69",
+          "6.45"
+        ],
+        [
+          "2026-09-30",
+          "Ami Kapilevich",
+          "Vedderhead",
+          11,
+          2,
+          "Nick Aliferis",
+          "NickA",
+          "13.38",
+          "9.03"
+        ],
+        [
+          "2026-09-29",
+          "Mayer Abdolaziz",
+          "Mayerbg",
+          6,
+          11,
+          "Reinhard Borzechowski",
+          "rzabg",
+          "9.98",
+          "13.72"
+        ],
+        [
+          "2026-09-29",
+          "Ami Kapilevich",
+          "Vedderhead",
+          11,
+          6,
+          "Daphne Ryder",
+          "Freya",
+          "10.97",
+          "8.44"
+        ],
+        [
+          "2026-09-25",
+          "Mayer Abdolaziz",
+          "Mayerbg",
+          11,
+          6,
+          "Daphne Ryder",
+          "Freya",
+          "11.33",
+          "8.90"
+        ],
+        [
+          "2026-09-22",
+          "Daphne Ryder",
+          "Freya",
+          11,
+          10,
+          "Matt Ryder",
+          "abyssgazer",
+          "8.98",
+          "5.54"
+        ],
+        [
+          "2026-09-21",
+          "Matt Ryder",
+          "abyssgazer",
+          11,
+          8,
+          "Reinhard Borzechowski",
+          "rzabg",
+          "5.70",
+          "19.91"
+        ],
+        [
+          "2026-09-20",
+          "Nick Aliferis",
+          "NickA",
+          10,
+          11,
+          "Matt Ryder",
+          "abyssgazer",
+          "7.95",
+          "8.34"
+        ]
+      ]
+    },
+    "D-League": {
+      "played": "22 / 45",
+      "outstanding": 23,
+      "averagePR": "11.86",
+      "deadline": "6 Dec 2026",
+      "standings": [
+        [
+          "Phillip Cohen",
+          "DrPhil",
+          "6",
+          "12",
+          "66.67%",
+          "4",
+          "4",
+          "0",
+          "11.27",
+          "2",
+          "66.67%",
+          "0.30"
+        ],
+        [
+          "Conrad Bosman",
+          "DrBOZ",
+          "3",
+          "8",
+          "88.89%",
+          "3",
+          "2",
+          "0",
+          "11.11",
+          "0",
+          "100.00%",
+          "3.18"
+        ],
+        [
+          "Stacey Barbaglia",
+          "StaceyTheFish",
+          "6",
+          "8",
+          "44.44%",
+          "3",
+          "2",
+          "0",
+          "11.19",
+          "3",
+          "50.00%",
+          "-1.05"
+        ],
+        [
+          "Aiden Mcgillivray",
+          "Aiden_M",
+          "3",
+          "7",
+          "77.78%",
+          "3",
+          "1",
+          "0",
+          "9.46",
+          "0",
+          "100.00%",
+          "-0.42"
+        ],
+        [
+          "Frans Hollenbach",
+          "Frans",
+          "6",
+          "7",
+          "38.89%",
+          "2",
+          "3",
+          "0",
+          "14.18",
+          "4",
+          "33.33%",
+          "-0.01"
+        ],
+        [
+          "Norman Pelman",
+          "Storminorm10",
+          "5",
+          "6",
+          "40.00%",
+          "2",
+          "2",
+          "0",
+          "14.50",
+          "3",
+          "40.00%",
+          "-0.43"
+        ],
+        [
+          "Lee Bakewell",
+          "leebakewell",
+          "5",
+          "6",
+          "40.00%",
+          "1",
+          "4",
+          "0",
+          "10.66",
+          "4",
+          "20.00%",
+          "-1.71"
+        ],
+        [
+          "Albertus Bekker",
+          "AlbertusBekker",
+          "4",
+          "5",
+          "41.67%",
+          "2",
+          "1",
+          "0",
+          "11.34",
+          "2",
+          "50.00%",
+          "2.23"
+        ],
+        [
+          "Pierre Quiry",
+          "Bambi_Bandit",
+          "3",
+          "4",
+          "44.44%",
+          "1",
+          "2",
+          "0",
+          "8.18",
+          "2",
+          "33.33%",
+          "0.38"
+        ],
+        [
+          "Nils Figenschou",
+          "rhythmatic",
+          "3",
+          "3",
+          "33.33%",
+          "1",
+          "1",
+          "0",
+          "14.88",
+          "2",
+          "33.33%",
+          "-0.70"
+        ]
+      ],
+      "fixtures": [
+        [
+          "Aiden Mcgillivray",
+          "Aiden_M",
+          "Albertus Bekker",
+          "AlbertusBekker"
+        ],
+        [
+          "Aiden Mcgillivray",
+          "Aiden_M",
+          "Conrad Bosman",
+          "DrBOZ"
+        ],
+        [
+          "Aiden Mcgillivray",
+          "Aiden_M",
+          "Nils Figenschou",
+          "rhythmatic"
+        ],
+        [
+          "Aiden Mcgillivray",
+          "Aiden_M",
+          "Norman Pelman",
+          "Storminorm10"
+        ],
+        [
+          "Aiden Mcgillivray",
+          "Aiden_M",
+          "Pierre Quiry",
+          "Bambi_Bandit"
+        ],
+        [
+          "Aiden Mcgillivray",
+          "Aiden_M",
+          "Stacey Barbaglia",
+          "StaceyTheFish"
+        ],
+        [
+          "Albertus Bekker",
+          "AlbertusBekker",
+          "Conrad Bosman",
+          "DrBOZ"
+        ],
+        [
+          "Albertus Bekker",
+          "AlbertusBekker",
+          "Nils Figenschou",
+          "rhythmatic"
+        ],
+        [
+          "Albertus Bekker",
+          "AlbertusBekker",
+          "Phillip Cohen",
+          "DrPhil"
+        ],
+        [
+          "Albertus Bekker",
+          "AlbertusBekker",
+          "Pierre Quiry",
+          "Bambi_Bandit"
+        ],
+        [
+          "Conrad Bosman",
+          "DrBOZ",
+          "Frans Hollenbach",
+          "Frans"
+        ],
+        [
+          "Conrad Bosman",
+          "DrBOZ",
+          "Nils Figenschou",
+          "rhythmatic"
+        ],
+        [
+          "Conrad Bosman",
+          "DrBOZ",
+          "Norman Pelman",
+          "Storminorm10"
+        ],
+        [
+          "Conrad Bosman",
+          "DrBOZ",
+          "Phillip Cohen",
+          "DrPhil"
+        ],
+        [
+          "Frans Hollenbach",
+          "Frans",
+          "Lee Bakewell",
+          "leebakewell"
+        ],
+        [
+          "Frans Hollenbach",
+          "Frans",
+          "Stacey Barbaglia",
+          "StaceyTheFish"
+        ],
+        [
+          "Lee Bakewell",
+          "leebakewell",
+          "Nils Figenschou",
+          "rhythmatic"
+        ],
+        [
+          "Lee Bakewell",
+          "leebakewell",
+          "Phillip Cohen",
+          "DrPhil"
+        ],
+        [
+          "Lee Bakewell",
+          "leebakewell",
+          "Pierre Quiry",
+          "Bambi_Bandit"
+        ],
+        [
+          "Nils Figenschou",
+          "rhythmatic",
+          "Norman Pelman",
+          "Storminorm10"
+        ],
+        [
+          "Nils Figenschou",
+          "rhythmatic",
+          "Pierre Quiry",
+          "Bambi_Bandit"
+        ],
+        [
+          "Norman Pelman",
+          "Storminorm10",
+          "Pierre Quiry",
+          "Bambi_Bandit"
+        ],
+        [
+          "Pierre Quiry",
+          "Bambi_Bandit",
+          "Stacey Barbaglia",
+          "StaceyTheFish"
+        ]
+      ],
+      "results": [
+        [
+          "2026-10-18",
+          "Phillip Cohen",
+          "DrPhil",
+          11,
+          9,
+          "Stacey Barbaglia",
+          "StaceyTheFish",
+          "11.15",
+          "13.86"
+        ],
+        [
+          "2026-10-16",
+          "Stacey Barbaglia",
+          "StaceyTheFish",
+          10,
+          11,
+          "Conrad Bosman",
+          "DrBOZ",
+          "8.89",
+          "6.98"
+        ],
+        [
+          "2026-10-13",
+          "Nils Figenschou",
+          "rhythmatic",
+          8,
+          11,
+          "Stacey Barbaglia",
+          "StaceyTheFish",
+          "17.22",
+          "13.39"
+        ],
+        [
+          "2026-10-12",
+          "Stacey Barbaglia",
+          "StaceyTheFish",
+          11,
+          6,
+          "Albertus Bekker",
+          "AlbertusBekker",
+          "7.97",
+          "9.94"
+        ],
+        [
+          "2026-10-11",
+          "Conrad Bosman",
+          "DrBOZ",
+          11,
+          3,
+          "Pierre Quiry",
+          "Bambi_Bandit",
+          "9.95",
+          "9.80"
+        ],
+        [
+          "2026-10-11",
+          "Albertus Bekker",
+          "AlbertusBekker",
+          11,
+          10,
+          "Norman Pelman",
+          "Storminorm10",
+          "13.55",
+          "9.65"
+        ],
+        [
+          "2026-10-10",
+          "Aiden Mcgillivray",
+          "Aiden_M",
+          11,
+          1,
+          "Phillip Cohen",
+          "DrPhil",
+          "6.27",
+          "10.16"
+        ],
+        [
+          "2026-10-10",
+          "Pierre Quiry",
+          "Bambi_Bandit",
+          11,
+          6,
+          "Frans Hollenbach",
+          "Frans",
+          "5.38",
+          "16.66"
+        ],
+        [
+          "2026-10-09",
+          "Aiden Mcgillivray",
+          "Aiden_M",
+          11,
+          10,
+          "Frans Hollenbach",
+          "Frans",
+          "12.57",
+          "12.02"
+        ],
+        [
+          "2026-10-06",
+          "Phillip Cohen",
+          "DrPhil",
+          11,
+          4,
+          "Nils Figenschou",
+          "rhythmatic",
+          "8.67",
+          "15.57"
+        ],
+        [
+          "2026-10-04",
+          "Phillip Cohen",
+          "DrPhil",
+          11,
+          10,
+          "Pierre Quiry",
+          "Bambi_Bandit",
+          "8.66",
+          "9.35"
+        ],
+        [
+          "2026-10-02",
+          "Lee Bakewell",
+          "leebakewell",
+          9,
+          11,
+          "Aiden Mcgillivray",
+          "Aiden_M",
+          "6.61",
+          "9.54"
+        ],
+        [
+          "2026-09-30",
+          "Phillip Cohen",
+          "DrPhil",
+          11,
+          3,
+          "Frans Hollenbach",
+          "Frans",
+          "19.97",
+          "14.71"
+        ],
+        [
+          "2026-09-28",
+          "Nils Figenschou",
+          "rhythmatic",
+          11,
+          7,
+          "Frans Hollenbach",
+          "Frans",
+          "11.85",
+          "17.55"
+        ],
+        [
+          "2026-09-27",
+          "Albertus Bekker",
+          "AlbertusBekker",
+          11,
+          5,
+          "Lee Bakewell",
+          "leebakewell",
+          "13.45",
+          "12.53"
+        ],
+        [
+          "2026-09-25",
+          "Norman Pelman",
+          "Storminorm10",
+          11,
+          0,
+          "Lee Bakewell",
+          "leebakewell",
+          "22.24",
+          "9.45"
+        ],
+        [
+          "2026-09-25",
+          "Lee Bakewell",
+          "leebakewell",
+          5,
+          11,
+          "Conrad Bosman",
+          "DrBOZ",
+          "18.30",
+          "16.41"
+        ],
+        [
+          "2026-09-21",
+          "Albertus Bekker",
+          "AlbertusBekker",
+          10,
+          11,
+          "Frans Hollenbach",
+          "Frans",
+          "8.41",
+          "9.70"
+        ],
+        [
+          "2026-09-20",
+          "Phillip Cohen",
+          "DrPhil",
+          4,
+          11,
+          "Norman Pelman",
+          "Storminorm10",
+          "9.01",
+          "11.81"
+        ],
+        [
+          "2026-09-18",
+          "Lee Bakewell",
+          "leebakewell",
+          11,
+          4,
+          "Stacey Barbaglia",
+          "StaceyTheFish",
+          "6.42",
+          "6.75"
+        ],
+        [
+          "2026-09-18",
+          "Norman Pelman",
+          "Storminorm10",
+          2,
+          11,
+          "Stacey Barbaglia",
+          "StaceyTheFish",
+          "13.16",
+          "16.27"
+        ],
+        [
+          "2026-09-15",
+          "Norman Pelman",
+          "Storminorm10",
+          3,
+          11,
+          "Frans Hollenbach",
+          "Frans",
+          "15.66",
+          "14.43"
+        ]
+      ]
+    },
+    "E-League": {
+      "played": "33 / 45",
+      "outstanding": 12,
+      "averagePR": "14.28",
+      "deadline": "6 Dec 2026",
+      "standings": [
+        [
+          "Jan Harder",
+          "Majoritas",
+          "9",
+          "21",
+          "77.78%",
+          "8",
+          "5",
+          "0",
+          "13.89",
+          "1",
+          "88.89%",
+          "1.70"
+        ],
+        [
+          "Daniel Breiter",
+          "Dangammon",
+          "8",
+          "17",
+          "70.83%",
+          "5",
+          "7",
+          "0",
+          "10.28",
+          "3",
+          "62.50%",
+          "-0.15"
+        ],
+        [
+          "Klisthenis Dimitriadis",
+          "Klisthenis",
+          "8",
+          "15",
+          "62.50%",
+          "5",
+          "5",
+          "0",
+          "11.69",
+          "3",
+          "62.50%",
+          "-0.38"
+        ],
+        [
+          "Craig Rapp",
+          "Craig rapp",
+          "8",
+          "12",
+          "50.00%",
+          "4",
+          "4",
+          "0",
+          "15.75",
+          "4",
+          "50.00%",
+          "2.10"
+        ],
+        [
+          "Possey Mina",
+          "Tavlipos",
+          "7",
+          "10",
+          "47.62%",
+          "3",
+          "4",
+          "0",
+          "10.78",
+          "4",
+          "42.86%",
+          "0.52"
+        ],
+        [
+          "Michelle Wright",
+          "MichelleDB",
+          "5",
+          "7",
+          "46.67%",
+          "3",
+          "1",
+          "0",
+          "20.53",
+          "2",
+          "60.00%",
+          "1.89"
+        ],
+        [
+          "Janette Hodgkinson",
+          "Janette Jasmine",
+          "4",
+          "5",
+          "41.67%",
+          "2",
+          "1",
+          "0",
+          "18.63",
+          "2",
+          "50.00%",
+          "-0.80"
+        ],
+        [
+          "Jacques Tredoux",
+          "Jtredoux",
+          "7",
+          "5",
+          "23.81%",
+          "1",
+          "3",
+          "0",
+          "16.40",
+          "6",
+          "14.29%",
+          "-1.57"
+        ],
+        [
+          "Ryan Wintle",
+          "CaptW",
+          "6",
+          "4",
+          "22.22%",
+          "1",
+          "2",
+          "0",
+          "13.85",
+          "5",
+          "16.67%",
+          "0.22"
+        ],
+        [
+          "Henry Shields",
+          "HenryTheAce",
+          "4",
+          "3",
+          "25.00%",
+          "1",
+          "1",
+          "0",
+          "16.24",
+          "3",
+          "25.00%",
+          "0.47"
+        ]
+      ],
+      "fixtures": [
+        [
+          "Craig Rapp",
+          "Craig rapp",
+          "Henry Shields",
+          "HenryTheAce"
+        ],
+        [
+          "Henry Shields",
+          "HenryTheAce",
+          "Jacques Tredoux",
+          "Jtredoux"
+        ],
+        [
+          "Henry Shields",
+          "HenryTheAce",
+          "Michelle Wright",
+          "MichelleDB"
+        ],
+        [
+          "Henry Shields",
+          "HenryTheAce",
+          "Possey Mina",
+          "Tavlipos"
+        ],
+        [
+          "Jacques Tredoux",
+          "Jtredoux",
+          "Janette Hodgkinson",
+          "Janette Jasmine"
+        ],
+        [
+          "Klisthenis Dimitriadis",
+          "Klisthenis",
+          "Janette Hodgkinson",
+          "Janette Jasmine"
+        ],
+        [
+          "Michelle Wright",
+          "MichelleDB",
+          "Daniel Breiter",
+          "Dangammon"
+        ],
+        [
+          "Michelle Wright",
+          "MichelleDB",
+          "Janette Hodgkinson",
+          "Janette Jasmine"
+        ],
+        [
+          "Possey Mina",
+          "Tavlipos",
+          "Janette Hodgkinson",
+          "Janette Jasmine"
+        ],
+        [
+          "Ryan Wintle",
+          "CaptW",
+          "Henry Shields",
+          "HenryTheAce"
+        ],
+        [
+          "Ryan Wintle",
+          "CaptW",
+          "Janette Hodgkinson",
+          "Janette Jasmine"
+        ],
+        [
+          "Ryan Wintle",
+          "CaptW",
+          "Michelle Wright",
+          "MichelleDB"
+        ]
+      ],
+      "results": [
+        [
+          "2026-10-17",
+          "Klisthenis Dimitriadis",
+          "Klisthenis",
+          1,
+          9,
+          "Craig Rapp",
+          "Craig rapp",
+          "6.66",
+          "14.00"
+        ],
+        [
+          "2026-10-17",
+          "Klisthenis Dimitriadis",
+          "Klisthenis",
+          9,
+          2,
+          "Henry Shields",
+          "HenryTheAce",
+          "10.04",
+          "12.30"
+        ],
+        [
+          "2026-10-17",
+          "Daniel Breiter",
+          "Dangammon",
+          9,
+          7,
+          "Jacques Tredoux",
+          "Jtredoux",
+          "10.80",
+          "17.68"
+        ],
+        [
+          "2026-10-16",
+          "Henry Shields",
+          "HenryTheAce",
+          6,
+          9,
+          "Daniel Breiter",
+          "Dangammon",
+          "27.15",
+          "14.27"
+        ],
+        [
+          "2026-10-15",
+          "Daniel Breiter",
+          "Dangammon",
+          4,
+          9,
+          "Janette Hodgkinson",
+          "Janette Jasmine",
+          "5.94",
+          "19.74"
+        ],
+        [
+          "2026-10-14",
+          "Jan Harder",
+          "Majoritas",
+          9,
+          7,
+          "Henry Shields",
+          "HenryTheAce",
+          "12.08",
+          "16.33"
+        ],
+        [
+          "2026-10-12",
+          "Jan Harder",
+          "Majoritas",
+          9,
+          7,
+          "Michelle Wright",
+          "MichelleDB",
+          "17.23",
+          "14.52"
+        ],
+        [
+          "2026-10-12",
+          "Craig Rapp",
+          "Craig rapp",
+          9,
+          3,
+          "Michelle Wright",
+          "MichelleDB",
+          "17.54",
+          "23.15"
+        ],
+        [
+          "2026-10-12",
+          "Daniel Breiter",
+          "Dangammon",
+          9,
+          1,
+          "Ryan Wintle",
+          "CaptW",
+          "13.01",
+          "15.06"
+        ],
+        [
+          "2026-10-09",
+          "Janette Hodgkinson",
+          "Janette Jasmine",
+          2,
+          9,
+          "Henry Shields",
+          "HenryTheAce",
+          "12.24",
+          "9.16"
+        ],
+        [
+          "2026-10-07",
+          "Craig Rapp",
+          "Craig rapp",
+          6,
+          9,
+          "Janette Hodgkinson",
+          "Janette Jasmine",
+          "17.96",
+          "21.94"
+        ],
+        [
+          "2026-10-07",
+          "Jan Harder",
+          "Majoritas",
+          9,
+          5,
+          "Janette Hodgkinson",
+          "Janette Jasmine",
+          "20.89",
+          "20.59"
+        ],
+        [
+          "2026-10-06",
+          "Ryan Wintle",
+          "CaptW",
+          8,
+          9,
+          "Craig Rapp",
+          "Craig rapp",
+          "15.93",
+          "15.02"
+        ],
+        [
+          "2026-10-04",
+          "Ryan Wintle",
+          "CaptW",
+          9,
+          6,
+          "Klisthenis Dimitriadis",
+          "Klisthenis",
+          "11.87",
+          "13.73"
+        ],
+        [
+          "2026-10-03",
+          "Jan Harder",
+          "Majoritas",
+          9,
+          3,
+          "Possey Mina",
+          "Tavlipos",
+          "14.78",
+          "7.19"
+        ],
+        [
+          "2026-10-01",
+          "Jan Harder",
+          "Majoritas",
+          9,
+          3,
+          "Craig Rapp",
+          "Craig rapp",
+          "11.03",
+          "17.36"
+        ],
+        [
+          "2026-09-30",
+          "Craig Rapp",
+          "Craig rapp",
+          8,
+          9,
+          "Daniel Breiter",
+          "Dangammon",
+          "12.86",
+          "7.84"
+        ],
+        [
+          "2026-09-29",
+          "Daniel Breiter",
+          "Dangammon",
+          2,
+          9,
+          "Klisthenis Dimitriadis",
+          "Klisthenis",
+          "11.38",
+          "13.94"
+        ],
+        [
+          "2026-09-28",
+          "Possey Mina",
+          "Tavlipos",
+          3,
+          9,
+          "Michelle Wright",
+          "MichelleDB",
+          "8.46",
+          "13.47"
+        ],
+        [
+          "2026-09-26",
+          "Klisthenis Dimitriadis",
+          "Klisthenis",
+          9,
+          8,
+          "Possey Mina",
+          "Tavlipos",
+          "10.77",
+          "9.26"
+        ],
+        [
+          "2026-09-26",
+          "Michelle Wright",
+          "MichelleDB",
+          9,
+          3,
+          "Klisthenis Dimitriadis",
+          "Klisthenis",
+          "28.18",
+          "14.63"
+        ],
+        [
+          "2026-09-25",
+          "Klisthenis Dimitriadis",
+          "Klisthenis",
+          9,
+          5,
+          "Jan Harder",
+          "Majoritas",
+          "14.88",
+          "15.04"
+        ],
+        [
+          "2026-09-25",
+          "Jacques Tredoux",
+          "Jtredoux",
+          1,
+          9,
+          "Klisthenis Dimitriadis",
+          "Klisthenis",
+          "10.37",
+          "8.88"
+        ],
+        [
+          "2026-09-23",
+          "Daniel Breiter",
+          "Dangammon",
+          4,
+          9,
+          "Jan Harder",
+          "Majoritas",
+          "12.46",
+          "12.17"
+        ],
+        [
+          "2026-09-22",
+          "Possey Mina",
+          "Tavlipos",
+          1,
+          9,
+          "Daniel Breiter",
+          "Dangammon",
+          "13.76",
+          "6.54"
+        ],
+        [
+          "2026-09-21",
+          "Michelle Wright",
+          "MichelleDB",
+          9,
+          3,
+          "Jacques Tredoux",
+          "Jtredoux",
+          "23.32",
+          "21.79"
+        ],
+        [
+          "2026-09-18",
+          "Jacques Tredoux",
+          "Jtredoux",
+          2,
+          9,
+          "Craig Rapp",
+          "Craig rapp",
+          "21.17",
+          "16.37"
+        ],
+        [
+          "2026-09-17",
+          "Possey Mina",
+          "Tavlipos",
+          9,
+          3,
+          "Craig Rapp",
+          "Craig rapp",
+          "9.04",
+          "14.88"
+        ],
+        [
+          "2026-09-17",
+          "Possey Mina",
+          "Tavlipos",
+          9,
+          8,
+          "Ryan Wintle",
+          "CaptW",
+          "13.04",
+          "12.41"
+        ],
+        [
+          "2026-09-16",
+          "Jacques Tredoux",
+          "Jtredoux",
+          8,
+          9,
+          "Jan Harder",
+          "Majoritas",
+          "18.22",
+          "8.32"
+        ],
+        [
+          "2026-09-15",
+          "Ryan Wintle",
+          "CaptW",
+          6,
+          9,
+          "Jacques Tredoux",
+          "Jtredoux",
+          "13.71",
+          "12.92"
+        ],
+        [
+          "2026-09-15",
+          "Possey Mina",
+          "Tavlipos",
+          9,
+          2,
+          "Jacques Tredoux",
+          "Jtredoux",
+          "14.68",
+          "12.67"
+        ],
+        [
+          "2026-09-14",
+          "Ryan Wintle",
+          "CaptW",
+          6,
+          9,
+          "Jan Harder",
+          "Majoritas",
+          "14.11",
+          "13.50"
+        ]
+      ]
+    },
+    "F-League": {
+      "played": "18 / 45",
+      "outstanding": 27,
+      "averagePR": "15.58",
+      "deadline": "6 Dec 2026",
+      "standings": [
+        [
+          "Chris Vynbos",
+          "chrisvynbos",
+          "5",
+          "15",
+          "100.00%",
+          "5",
+          "5",
+          "0",
+          "8.73",
+          "0",
+          "100.00%",
+          "0.10"
+        ],
+        [
+          "Johan Greeff",
+          "Domaix",
+          "8",
+          "11",
+          "45.83%",
+          "3",
+          "5",
+          "0",
+          "17.34",
+          "5",
+          "37.50%",
+          "-0.43"
+        ],
+        [
+          "Jeroen Koster",
+          "JeroenKoster",
+          "5",
+          "9",
+          "60.00%",
+          "3",
+          "3",
+          "0",
+          "16.15",
+          "2",
+          "60.00%",
+          "0.92"
+        ],
+        [
+          "Harold Eggar",
+          "HammerEggar",
+          "4",
+          "5",
+          "41.67%",
+          "2",
+          "1",
+          "0",
+          "20.09",
+          "2",
+          "50.00%",
+          "3.07"
+        ],
+        [
+          "Victor Shiffman",
+          "VictorAfrica",
+          "4",
+          "4",
+          "33.33%",
+          "1",
+          "2",
+          "0",
+          "14.89",
+          "3",
+          "25.00%",
+          "-1.36"
+        ],
+        [
+          "Aaron Seinker",
+          "Aaron_1",
+          "2",
+          "3",
+          "50.00%",
+          "1",
+          "1",
+          "0",
+          "13.87",
+          "1",
+          "50.00%",
+          "-1.62"
+        ],
+        [
+          "Martin Hurwitz",
+          "Bergy10",
+          "2",
+          "3",
+          "50.00%",
+          "1",
+          "1",
+          "0",
+          "15.64",
+          "1",
+          "50.00%",
+          "0.14"
+        ],
+        [
+          "Anri van der Walt",
+          "Anri_123",
+          "2",
+          "2",
+          "33.33%",
+          "1",
+          "0",
+          "0",
+          "11.96",
+          "1",
+          "50.00%",
+          "0.26"
+        ],
+        [
+          "Ronen Jackson",
+          "Sheshbesh2111",
+          "4",
+          "2",
+          "16.67%",
+          "1",
+          "0",
+          "0",
+          "18.69",
+          "3",
+          "25.00%",
+          "0.76"
+        ],
+        [
+          "Bowan chad Lombard",
+          "Bobluvskie",
+          "0",
+          "0",
+          "0.00%",
+          "0",
+          "0",
+          "0",
+          "—",
+          "0",
+          "0.00%",
+          "—"
+        ]
+      ],
+      "fixtures": [
+        [
+          "Aaron Seinker",
+          "Aaron_1",
+          "Anri van der Walt",
+          "Anri_123"
+        ],
+        [
+          "Aaron Seinker",
+          "Aaron_1",
+          "Bowan chad Lombard",
+          "Bobluvskie"
+        ],
+        [
+          "Aaron Seinker",
+          "Aaron_1",
+          "Chris Vynbos",
+          "chrisvynbos"
+        ],
+        [
+          "Aaron Seinker",
+          "Aaron_1",
+          "Harold Eggar",
+          "HammerEggar"
+        ],
+        [
+          "Aaron Seinker",
+          "Aaron_1",
+          "Jeroen Koster",
+          "JeroenKoster"
+        ],
+        [
+          "Aaron Seinker",
+          "Aaron_1",
+          "Martin Hurwitz",
+          "Bergy10"
+        ],
+        [
+          "Aaron Seinker",
+          "Aaron_1",
+          "Victor Shiffman",
+          "VictorAfrica"
+        ],
+        [
+          "Anri van der Walt",
+          "Anri_123",
+          "Jeroen Koster",
+          "JeroenKoster"
+        ],
+        [
+          "Bowan chad Lombard",
+          "Bobluvskie",
+          "Anri van der Walt",
+          "Anri_123"
+        ],
+        [
+          "Bowan chad Lombard",
+          "Bobluvskie",
+          "Chris Vynbos",
+          "chrisvynbos"
+        ],
+        [
+          "Bowan chad Lombard",
+          "Bobluvskie",
+          "Jeroen Koster",
+          "JeroenKoster"
+        ],
+        [
+          "Bowan chad Lombard",
+          "Bobluvskie",
+          "Johan Greeff",
+          "Domaix"
+        ],
+        [
+          "Chris Vynbos",
+          "chrisvynbos",
+          "Jeroen Koster",
+          "JeroenKoster"
+        ],
+        [
+          "Harold Eggar",
+          "HammerEggar",
+          "Anri van der Walt",
+          "Anri_123"
+        ],
+        [
+          "Harold Eggar",
+          "HammerEggar",
+          "Bowan chad Lombard",
+          "Bobluvskie"
+        ],
+        [
+          "Harold Eggar",
+          "HammerEggar",
+          "Martin Hurwitz",
+          "Bergy10"
+        ],
+        [
+          "Harold Eggar",
+          "HammerEggar",
+          "Ronen Jackson",
+          "Sheshbesh2111"
+        ],
+        [
+          "Martin Hurwitz",
+          "Bergy10",
+          "Anri van der Walt",
+          "Anri_123"
+        ],
+        [
+          "Martin Hurwitz",
+          "Bergy10",
+          "Bowan chad Lombard",
+          "Bobluvskie"
+        ],
+        [
+          "Martin Hurwitz",
+          "Bergy10",
+          "Chris Vynbos",
+          "chrisvynbos"
+        ],
+        [
+          "Martin Hurwitz",
+          "Bergy10",
+          "Ronen Jackson",
+          "Sheshbesh2111"
+        ],
+        [
+          "Martin Hurwitz",
+          "Bergy10",
+          "Victor Shiffman",
+          "VictorAfrica"
+        ],
+        [
+          "Ronen Jackson",
+          "Sheshbesh2111",
+          "Anri van der Walt",
+          "Anri_123"
+        ],
+        [
+          "Ronen Jackson",
+          "Sheshbesh2111",
+          "Bowan chad Lombard",
+          "Bobluvskie"
+        ],
+        [
+          "Victor Shiffman",
+          "VictorAfrica",
+          "Anri van der Walt",
+          "Anri_123"
+        ],
+        [
+          "Victor Shiffman",
+          "VictorAfrica",
+          "Bowan chad Lombard",
+          "Bobluvskie"
+        ],
+        [
+          "Victor Shiffman",
+          "VictorAfrica",
+          "Ronen Jackson",
+          "Sheshbesh2111"
+        ]
+      ],
+      "results": [
+        [
+          "2026-10-19",
+          "Harold Eggar",
+          "HammerEggar",
+          9,
+          4,
+          "Johan Greeff",
+          "Domaix",
+          "29.21",
+          "16.21"
+        ],
+        [
+          "2026-10-19",
+          "Johan Greeff",
+          "Domaix",
+          0,
+          9,
+          "Martin Hurwitz",
+          "Bergy10",
+          "18.07",
+          "11.68"
+        ],
+        [
+          "2026-10-19",
+          "Harold Eggar",
+          "HammerEggar",
+          8,
+          9,
+          "Chris Vynbos",
+          "chrisvynbos",
+          "18.34",
+          "8.43"
+        ],
+        [
+          "2026-10-17",
+          "Victor Shiffman",
+          "VictorAfrica",
+          9,
+          7,
+          "Jeroen Koster",
+          "JeroenKoster",
+          "14.54",
+          "16.39"
+        ],
+        [
+          "2026-10-13",
+          "Ronen Jackson",
+          "Sheshbesh2111",
+          5,
+          9,
+          "Johan Greeff",
+          "Domaix",
+          "15.71",
+          "11.31"
+        ],
+        [
+          "2026-10-13",
+          "Chris Vynbos",
+          "chrisvynbos",
+          9,
+          2,
+          "Anri van der Walt",
+          "Anri_123",
+          "4.45",
+          "12.73"
+        ],
+        [
+          "2026-10-12",
+          "Harold Eggar",
+          "HammerEggar",
+          9,
+          6,
+          "Victor Shiffman",
+          "VictorAfrica",
+          "14.72",
+          "16.74"
+        ],
+        [
+          "2026-10-05",
+          "Ronen Jackson",
+          "Sheshbesh2111",
+          7,
+          9,
+          "Jeroen Koster",
+          "JeroenKoster",
+          "21.94",
+          "14.39"
+        ],
+        [
+          "2026-10-03",
+          "Victor Shiffman",
+          "VictorAfrica",
+          0,
+          9,
+          "Johan Greeff",
+          "Domaix",
+          "13.33",
+          "25.34"
+        ],
+        [
+          "2026-10-01",
+          "Johan Greeff",
+          "Domaix",
+          9,
+          2,
+          "Jeroen Koster",
+          "JeroenKoster",
+          "20.45",
+          "30.26"
+        ],
+        [
+          "2026-09-29",
+          "Johan Greeff",
+          "Domaix",
+          8,
+          9,
+          "Aaron Seinker",
+          "Aaron_1",
+          "14.41",
+          "14.88"
+        ],
+        [
+          "2026-09-27",
+          "Ronen Jackson",
+          "Sheshbesh2111",
+          9,
+          4,
+          "Aaron Seinker",
+          "Aaron_1",
+          "22.13",
+          "12.87"
+        ],
+        [
+          "2026-09-24",
+          "Victor Shiffman",
+          "VictorAfrica",
+          0,
+          9,
+          "Chris Vynbos",
+          "chrisvynbos",
+          "14.94",
+          "9.70"
+        ],
+        [
+          "2026-09-23",
+          "Jeroen Koster",
+          "JeroenKoster",
+          9,
+          2,
+          "Martin Hurwitz",
+          "Bergy10",
+          "11.31",
+          "19.61"
+        ],
+        [
+          "2026-09-19",
+          "Anri van der Walt",
+          "Anri_123",
+          9,
+          4,
+          "Johan Greeff",
+          "Domaix",
+          "11.19",
+          "9.06"
+        ],
+        [
+          "2026-09-18",
+          "Ronen Jackson",
+          "Sheshbesh2111",
+          8,
+          9,
+          "Chris Vynbos",
+          "chrisvynbos",
+          "15.00",
+          "7.62"
+        ],
+        [
+          "2026-09-17",
+          "Jeroen Koster",
+          "JeroenKoster",
+          9,
+          8,
+          "Harold Eggar",
+          "HammerEggar",
+          "8.38",
+          "18.10"
+        ],
+        [
+          "2026-09-16",
+          "Chris Vynbos",
+          "chrisvynbos",
+          9,
+          5,
+          "Johan Greeff",
+          "Domaix",
+          "13.45",
+          "23.91"
+        ]
+      ]
+    },
+    "G-League": {
+      "played": "37 / 45",
+      "outstanding": 8,
+      "averagePR": "15.39",
+      "deadline": "6 Dec 2026",
+      "standings": [
+        [
+          "Josh Sarembock",
+          "fafo96",
+          "9",
+          "23",
+          "85.19%",
+          "8",
+          "7",
+          "0",
+          "8.80",
+          "1",
+          "88.89%",
+          "1.31"
+        ],
+        [
+          "Adam Chaskalson",
+          "Adam_aca",
+          "9",
+          "21",
+          "77.78%",
+          "7",
+          "7",
+          "0",
+          "15.17",
+          "2",
+          "77.78%",
+          "-0.43"
+        ],
+        [
+          "Jason Katz",
+          "JasKatz",
+          "9",
+          "20",
+          "74.07%",
+          "7",
+          "6",
+          "0",
+          "14.68",
+          "2",
+          "77.78%",
+          "1.28"
+        ],
+        [
+          "Demetri Philippides",
+          "Demetri",
+          "9",
+          "12",
+          "44.44%",
+          "4",
+          "4",
+          "0",
+          "16.09",
+          "5",
+          "44.44%",
+          "-0.35"
+        ],
+        [
+          "Callie Maritz",
+          "Callie",
+          "6",
+          "9",
+          "50.00%",
+          "3",
+          "3",
+          "0",
+          "13.55",
+          "3",
+          "50.00%",
+          "-0.63"
+        ],
+        [
+          "Nigel Ward",
+          "Nigel",
+          "7",
+          "8",
+          "38.10%",
+          "3",
+          "2",
+          "0",
+          "19.66",
+          "4",
+          "42.86%",
+          "-1.20"
+        ],
+        [
+          "Anthony Havens",
+          "Vectis",
+          "7",
+          "8",
+          "38.10%",
+          "1",
+          "6",
+          "0",
+          "9.24",
+          "6",
+          "14.29%",
+          "-0.80"
+        ],
+        [
+          "David Reade",
+          "Glassman",
+          "7",
+          "5",
+          "23.81%",
+          "2",
+          "1",
+          "0",
+          "19.97",
+          "5",
+          "28.57%",
+          "-0.01"
+        ],
+        [
+          "Tyrone Crowie",
+          "Moongoonstar",
+          "5",
+          "4",
+          "26.67%",
+          "2",
+          "0",
+          "0",
+          "24.28",
+          "3",
+          "40.00%",
+          "1.13"
+        ],
+        [
+          "Stelios Herodotou",
+          "Stel",
+          "6",
+          "1",
+          "5.56%",
+          "0",
+          "1",
+          "0",
+          "16.97",
+          "6",
+          "0.00%",
+          "-2.66"
+        ]
+      ],
+      "fixtures": [
+        [
+          "Callie Maritz",
+          "Callie",
+          "Nigel Ward",
+          "Nigel"
+        ],
+        [
+          "David Reade",
+          "Glassman",
+          "Nigel Ward",
+          "Nigel"
+        ],
+        [
+          "Stelios Herodotou",
+          "Stel",
+          "Anthony Havens",
+          "Vectis"
+        ],
+        [
+          "Stelios Herodotou",
+          "Stel",
+          "Callie Maritz",
+          "Callie"
+        ],
+        [
+          "Tyrone Crowie",
+          "Moongoonstar",
+          "Anthony Havens",
+          "Vectis"
+        ],
+        [
+          "Tyrone Crowie",
+          "Moongoonstar",
+          "Callie Maritz",
+          "Callie"
+        ],
+        [
+          "Tyrone Crowie",
+          "Moongoonstar",
+          "David Reade",
+          "Glassman"
+        ],
+        [
+          "Tyrone Crowie",
+          "Moongoonstar",
+          "Stelios Herodotou",
+          "Stel"
+        ]
+      ],
+      "results": [
+        [
+          "2026-10-19",
+          "Tyrone Crowie",
+          "Moongoonstar",
+          9,
+          1,
+          "Nigel Ward",
+          "Nigel",
+          "23.41",
+          "21.04"
+        ],
+        [
+          "2026-10-18",
+          "Nigel Ward",
+          "Nigel",
+          9,
+          7,
+          "Stelios Herodotou",
+          "Stel",
+          "19.61",
+          "16.56"
+        ],
+        [
+          "2026-10-11",
+          "Anthony Havens",
+          "Vectis",
+          9,
+          4,
+          "Nigel Ward",
+          "Nigel",
+          "6.82",
+          "21.46"
+        ],
+        [
+          "2026-10-11",
+          "David Reade",
+          "Glassman",
+          9,
+          0,
+          "Anthony Havens",
+          "Vectis",
+          "20.69",
+          "16.77"
+        ],
+        [
+          "2026-10-10",
+          "Jason Katz",
+          "JasKatz",
+          8,
+          9,
+          "Nigel Ward",
+          "Nigel",
+          "15.80",
+          "23.27"
+        ],
+        [
+          "2026-10-06",
+          "Demetri Philippides",
+          "Demetri",
+          9,
+          7,
+          "Anthony Havens",
+          "Vectis",
+          "15.45",
+          "10.71"
+        ],
+        [
+          "2026-10-06",
+          "Callie Maritz",
+          "Callie",
+          7,
+          9,
+          "Adam Chaskalson",
+          "Adam_aca",
+          "15.20",
+          "13.40"
+        ],
+        [
+          "2026-10-06",
+          "Anthony Havens",
+          "Vectis",
+          3,
+          9,
+          "Callie Maritz",
+          "Callie",
+          "7.44",
+          "11.09"
+        ],
+        [
+          "2026-10-05",
+          "Jason Katz",
+          "JasKatz",
+          9,
+          6,
+          "Callie Maritz",
+          "Callie",
+          "15.38",
+          "10.30"
+        ],
+        [
+          "2026-10-05",
+          "Callie Maritz",
+          "Callie",
+          9,
+          5,
+          "David Reade",
+          "Glassman",
+          "15.36",
+          "17.99"
+        ],
+        [
+          "2026-10-05",
+          "Demetri Philippides",
+          "Demetri",
+          7,
+          9,
+          "Callie Maritz",
+          "Callie",
+          "13.80",
+          "13.44"
+        ],
+        [
+          "2026-10-04",
+          "Nigel Ward",
+          "Nigel",
+          9,
+          8,
+          "Adam Chaskalson",
+          "Adam_aca",
+          "15.46",
+          "22.35"
+        ],
+        [
+          "2026-10-04",
+          "Nigel Ward",
+          "Nigel",
+          8,
+          9,
+          "Demetri Philippides",
+          "Demetri",
+          "19.53",
+          "13.18"
+        ],
+        [
+          "2026-10-04",
+          "Anthony Havens",
+          "Vectis",
+          6,
+          9,
+          "Josh Sarembock",
+          "fafo96",
+          "4.97",
+          "9.03"
+        ],
+        [
+          "2026-10-03",
+          "Anthony Havens",
+          "Vectis",
+          1,
+          9,
+          "Adam Chaskalson",
+          "Adam_aca",
+          "5.89",
+          "12.71"
+        ],
+        [
+          "2026-10-01",
+          "Anthony Havens",
+          "Vectis",
+          8,
+          9,
+          "Jason Katz",
+          "JasKatz",
+          "12.08",
+          "11.25"
+        ],
+        [
+          "2026-09-29",
+          "Tyrone Crowie",
+          "Moongoonstar",
+          1,
+          9,
+          "Jason Katz",
+          "JasKatz",
+          "26.63",
+          "24.80"
+        ],
+        [
+          "2026-09-28",
+          "Nigel Ward",
+          "Nigel",
+          4,
+          9,
+          "Josh Sarembock",
+          "fafo96",
+          "17.27",
+          "11.61"
+        ],
+        [
+          "2026-09-27",
+          "David Reade",
+          "Glassman",
+          4,
+          9,
+          "Demetri Philippides",
+          "Demetri",
+          "24.40",
+          "18.61"
+        ],
+        [
+          "2026-09-26",
+          "Demetri Philippides",
+          "Demetri",
+          8,
+          9,
+          "Jason Katz",
+          "JasKatz",
+          "15.36",
+          "13.70"
+        ],
+        [
+          "2026-09-26",
+          "Callie Maritz",
+          "Callie",
+          4,
+          9,
+          "Josh Sarembock",
+          "fafo96",
+          "15.90",
+          "9.32"
+        ],
+        [
+          "2026-09-25",
+          "Demetri Philippides",
+          "Demetri",
+          9,
+          2,
+          "Stelios Herodotou",
+          "Stel",
+          "9.24",
+          "13.84"
+        ],
+        [
+          "2026-09-25",
+          "Josh Sarembock",
+          "fafo96",
+          9,
+          0,
+          "Demetri Philippides",
+          "Demetri",
+          "3.53",
+          "19.12"
+        ],
+        [
+          "2026-09-25",
+          "Josh Sarembock",
+          "fafo96",
+          9,
+          0,
+          "Stelios Herodotou",
+          "Stel",
+          "7.39",
+          "17.38"
+        ],
+        [
+          "2026-09-24",
+          "Jason Katz",
+          "JasKatz",
+          9,
+          8,
+          "Adam Chaskalson",
+          "Adam_aca",
+          "14.53",
+          "12.68"
+        ],
+        [
+          "2026-09-23",
+          "Demetri Philippides",
+          "Demetri",
+          4,
+          9,
+          "Tyrone Crowie",
+          "Moongoonstar",
+          "21.81",
+          "24.96"
+        ],
+        [
+          "2026-09-21",
+          "Demetri Philippides",
+          "Demetri",
+          7,
+          9,
+          "Adam Chaskalson",
+          "Adam_aca",
+          "18.20",
+          "10.02"
+        ],
+        [
+          "2026-09-20",
+          "Jason Katz",
+          "JasKatz",
+          9,
+          3,
+          "Stelios Herodotou",
+          "Stel",
+          "14.40",
+          "16.71"
+        ],
+        [
+          "2026-09-19",
+          "David Reade",
+          "Glassman",
+          0,
+          9,
+          "Adam Chaskalson",
+          "Adam_aca",
+          "17.01",
+          "16.99"
+        ],
+        [
+          "2026-09-19",
+          "Jason Katz",
+          "JasKatz",
+          8,
+          9,
+          "Josh Sarembock",
+          "fafo96",
+          "13.19",
+          "7.53"
+        ],
+        [
+          "2026-09-17",
+          "Jason Katz",
+          "JasKatz",
+          9,
+          5,
+          "David Reade",
+          "Glassman",
+          "9.06",
+          "24.15"
+        ],
+        [
+          "2026-09-17",
+          "Adam Chaskalson",
+          "Adam_aca",
+          9,
+          6,
+          "Stelios Herodotou",
+          "Stel",
+          "17.64",
+          "18.59"
+        ],
+        [
+          "2026-09-16",
+          "Stelios Herodotou",
+          "Stel",
+          3,
+          9,
+          "David Reade",
+          "Glassman",
+          "18.74",
+          "16.94"
+        ],
+        [
+          "2026-09-16",
+          "Adam Chaskalson",
+          "Adam_aca",
+          9,
+          7,
+          "Josh Sarembock",
+          "fafo96",
+          "16.97",
+          "17.36"
+        ],
+        [
+          "2026-09-15",
+          "Adam Chaskalson",
+          "Adam_aca",
+          9,
+          1,
+          "Tyrone Crowie",
+          "Moongoonstar",
+          "13.75",
+          "20.36"
+        ],
+        [
+          "2026-09-15",
+          "Josh Sarembock",
+          "fafo96",
+          9,
+          8,
+          "Tyrone Crowie",
+          "Moongoonstar",
+          "7.28",
+          "26.04"
+        ],
+        [
+          "2026-09-14",
+          "Josh Sarembock",
+          "fafo96",
+          9,
+          2,
+          "David Reade",
+          "Glassman",
+          "6.20",
+          "18.59"
+        ]
+      ]
+    },
+    "Guppy Group Yellow": {
+      "played": "17 / 36",
+      "outstanding": 19,
+      "averagePR": "20.19",
+      "deadline": "6 Dec 2026",
+      "standings": [
+        [
+          "Ron Bach",
+          "amabacha",
+          "8",
+          "16",
+          "66.67%",
+          "5",
+          "6",
+          "0",
+          "20.03",
+          "3",
+          "62.50%",
+          "-0.23"
+        ],
+        [
+          "Liesl Tolken",
+          "liesl",
+          "5",
+          "8",
+          "53.33%",
+          "3",
+          "2",
+          "0",
+          "16.96",
+          "2",
+          "60.00%",
+          "2.08"
+        ],
+        [
+          "Emma Nicholls",
+          "EmmaMN",
+          "4",
+          "6",
+          "50.00%",
+          "2",
+          "2",
+          "0",
+          "18.27",
+          "2",
+          "50.00%",
+          "0.14"
+        ],
+        [
+          "Zuanda Eggar",
+          "Zuanda",
+          "3",
+          "6",
+          "66.67%",
+          "2",
+          "2",
+          "0",
+          "20.25",
+          "1",
+          "66.67%",
+          "0.21"
+        ],
+        [
+          "Jared Shutte",
+          "JaredShutte",
+          "3",
+          "5",
+          "55.56%",
+          "2",
+          "1",
+          "0",
+          "19.72",
+          "1",
+          "66.67%",
+          "2.02"
+        ],
+        [
+          "Jonathon Rees",
+          "JonathonRees",
+          "4",
+          "5",
+          "41.67%",
+          "1",
+          "3",
+          "0",
+          "19.06",
+          "3",
+          "25.00%",
+          "-0.09"
+        ],
+        [
+          "Thomas Sherwood",
+          "TomTomS",
+          "2",
+          "2",
+          "33.33%",
+          "1",
+          "0",
+          "0",
+          "25.34",
+          "1",
+          "50.00%",
+          "2.14"
+        ],
+        [
+          "Liam Hendler",
+          "liam",
+          "3",
+          "2",
+          "22.22%",
+          "1",
+          "0",
+          "0",
+          "25.87",
+          "2",
+          "33.33%",
+          "0.43"
+        ],
+        [
+          "Costa Vass",
+          "Cosman62",
+          "2",
+          "1",
+          "16.67%",
+          "0",
+          "1",
+          "0",
+          "21.92",
+          "2",
+          "0.00%",
+          "0.88"
+        ]
+      ],
+      "fixtures": [
+        [
+          "Costa Vass",
+          "Cosman62",
+          "Liam Hendler",
+          "liam"
+        ],
+        [
+          "Costa Vass",
+          "Cosman62",
+          "Liesl Tolken",
+          "liesl"
+        ],
+        [
+          "Emma Nicholls",
+          "EmmaMN",
+          "Costa Vass",
+          "Cosman62"
+        ],
+        [
+          "Emma Nicholls",
+          "EmmaMN",
+          "Jared Shutte",
+          "JaredShutte"
+        ],
+        [
+          "Emma Nicholls",
+          "EmmaMN",
+          "Thomas Sherwood",
+          "TomTomS"
+        ],
+        [
+          "Emma Nicholls",
+          "EmmaMN",
+          "Zuanda Eggar",
+          "Zuanda"
+        ],
+        [
+          "Jonathon Rees",
+          "JonathonRees",
+          "Costa Vass",
+          "Cosman62"
+        ],
+        [
+          "Jonathon Rees",
+          "JonathonRees",
+          "Jared Shutte",
+          "JaredShutte"
+        ],
+        [
+          "Liam Hendler",
+          "liam",
+          "Jared Shutte",
+          "JaredShutte"
+        ],
+        [
+          "Liam Hendler",
+          "liam",
+          "Liesl Tolken",
+          "liesl"
+        ],
+        [
+          "Liesl Tolken",
+          "liesl",
+          "Jared Shutte",
+          "JaredShutte"
+        ],
+        [
+          "Thomas Sherwood",
+          "TomTomS",
+          "Costa Vass",
+          "Cosman62"
+        ],
+        [
+          "Thomas Sherwood",
+          "TomTomS",
+          "Jared Shutte",
+          "JaredShutte"
+        ],
+        [
+          "Thomas Sherwood",
+          "TomTomS",
+          "Jonathon Rees",
+          "JonathonRees"
+        ],
+        [
+          "Thomas Sherwood",
+          "TomTomS",
+          "Liam Hendler",
+          "liam"
+        ],
+        [
+          "Zuanda Eggar",
+          "Zuanda",
+          "Costa Vass",
+          "Cosman62"
+        ],
+        [
+          "Zuanda Eggar",
+          "Zuanda",
+          "Jonathon Rees",
+          "JonathonRees"
+        ],
+        [
+          "Zuanda Eggar",
+          "Zuanda",
+          "Liam Hendler",
+          "liam"
+        ],
+        [
+          "Zuanda Eggar",
+          "Zuanda",
+          "Thomas Sherwood",
+          "TomTomS"
+        ]
+      ],
+      "results": [
+        [
+          "2026-10-19",
+          "Zuanda Eggar",
+          "Zuanda",
+          9,
+          4,
+          "Liesl Tolken",
+          "liesl",
+          "14.54",
+          "22.98"
+        ],
+        [
+          "2026-10-13",
+          "Emma Nicholls",
+          "EmmaMN",
+          9,
+          2,
+          "Liam Hendler",
+          "liam",
+          "15.39",
+          "15.82"
+        ],
+        [
+          "2026-10-11",
+          "Costa Vass",
+          "Cosman62",
+          8,
+          9,
+          "Ron Bach",
+          "amabacha",
+          "22.97",
+          "21.61"
+        ],
+        [
+          "2026-10-10",
+          "Thomas Sherwood",
+          "TomTomS",
+          9,
+          7,
+          "Ron Bach",
+          "amabacha",
+          "28.03",
+          "15.19"
+        ],
+        [
+          "2026-10-09",
+          "Ron Bach",
+          "amabacha",
+          9,
+          5,
+          "Zuanda Eggar",
+          "Zuanda",
+          "24.58",
+          "30.02"
+        ],
+        [
+          "2026-10-08",
+          "Jared Shutte",
+          "JaredShutte",
+          9,
+          5,
+          "Ron Bach",
+          "amabacha",
+          "19.18",
+          "24.87"
+        ],
+        [
+          "2026-10-08",
+          "Zuanda Eggar",
+          "Zuanda",
+          9,
+          7,
+          "Jared Shutte",
+          "JaredShutte",
+          "16.18",
+          "17.44"
+        ],
+        [
+          "2026-10-06",
+          "Liesl Tolken",
+          "liesl",
+          9,
+          4,
+          "Thomas Sherwood",
+          "TomTomS",
+          "13.64",
+          "22.65"
+        ],
+        [
+          "2026-10-05",
+          "Costa Vass",
+          "Cosman62",
+          0,
+          9,
+          "Jared Shutte",
+          "JaredShutte",
+          "20.86",
+          "22.54"
+        ],
+        [
+          "2026-09-28",
+          "Jonathon Rees",
+          "JonathonRees",
+          6,
+          9,
+          "Ron Bach",
+          "amabacha",
+          "18.18",
+          "15.35"
+        ],
+        [
+          "2026-09-25",
+          "Liam Hendler",
+          "liam",
+          1,
+          9,
+          "Jonathon Rees",
+          "JonathonRees",
+          "29.35",
+          "20.29"
+        ],
+        [
+          "2026-09-23",
+          "Liesl Tolken",
+          "liesl",
+          9,
+          4,
+          "Jonathon Rees",
+          "JonathonRees",
+          "17.56",
+          "16.00"
+        ],
+        [
+          "2026-09-20",
+          "Liesl Tolken",
+          "liesl",
+          9,
+          7,
+          "Emma Nicholls",
+          "EmmaMN",
+          "17.69",
+          "14.72"
+        ],
+        [
+          "2026-09-19",
+          "Ron Bach",
+          "amabacha",
+          9,
+          1,
+          "Liesl Tolken",
+          "liesl",
+          "20.73",
+          "12.93"
+        ],
+        [
+          "2026-09-19",
+          "Ron Bach",
+          "amabacha",
+          7,
+          9,
+          "Liam Hendler",
+          "liam",
+          "19.50",
+          "32.43"
+        ],
+        [
+          "2026-09-18",
+          "Ron Bach",
+          "amabacha",
+          9,
+          7,
+          "Emma Nicholls",
+          "EmmaMN",
+          "18.43",
+          "19.23"
+        ],
+        [
+          "2026-09-16",
+          "Emma Nicholls",
+          "EmmaMN",
+          9,
+          4,
+          "Jonathon Rees",
+          "JonathonRees",
+          "23.77",
+          "21.79"
+        ]
+      ]
+    },
+    "Guppy Group Blue": {
+      "played": "21 / 36",
+      "outstanding": 15,
+      "averagePR": "18.48",
+      "deadline": "6 Dec 2026",
+      "standings": [
+        [
+          "Alain Dekker",
+          "abdekker",
+          "8",
+          "18",
+          "75.00%",
+          "5",
+          "8",
+          "0",
+          "8.84",
+          "3",
+          "62.50%",
+          "-0.50"
+        ],
+        [
+          "Ivan Horowitz",
+          "IBH",
+          "8",
+          "14",
+          "58.33%",
+          "5",
+          "4",
+          "0",
+          "19.52",
+          "3",
+          "62.50%",
+          "1.05"
+        ],
+        [
+          "Martin Sher",
+          "Mutton",
+          "5",
+          "10",
+          "66.67%",
+          "3",
+          "4",
+          "0",
+          "10.88",
+          "2",
+          "60.00%",
+          "-0.55"
+        ],
+        [
+          "Kylie Schlosberg",
+          "kschlosberg",
+          "3",
+          "6",
+          "66.67%",
+          "2",
+          "2",
+          "0",
+          "18.94",
+          "1",
+          "66.67%",
+          "2.62"
+        ],
+        [
+          "Lissa Szymonowicz",
+          "Trepta",
+          "3",
+          "5",
+          "55.56%",
+          "2",
+          "1",
+          "0",
+          "18.35",
+          "1",
+          "66.67%",
+          "1.24"
+        ],
+        [
+          "Morné Matthews",
+          "Kwa88a",
+          "3",
+          "4",
+          "44.44%",
+          "2",
+          "0",
+          "0",
+          "15.93",
+          "1",
+          "66.67%",
+          "2.65"
+        ],
+        [
+          "Amit Cohen",
+          "AMMO",
+          "4",
+          "4",
+          "33.33%",
+          "1",
+          "2",
+          "0",
+          "10.53",
+          "3",
+          "25.00%",
+          "0.01"
+        ],
+        [
+          "Paul Lingenfelder",
+          "paul_l",
+          "3",
+          "2",
+          "22.22%",
+          "1",
+          "0",
+          "0",
+          "17.54",
+          "2",
+          "33.33%",
+          "-0.39"
+        ],
+        [
+          "Samantha James",
+          "SammyJ",
+          "5",
+          "0",
+          "0.00%",
+          "0",
+          "0",
+          "0",
+          "48.04",
+          "5",
+          "0.00%",
+          "0.85"
+        ]
+      ],
+      "fixtures": [
+        [
+          "Amit Cohen",
+          "AMMO",
+          "Kylie Schlosberg",
+          "kschlosberg"
+        ],
+        [
+          "Amit Cohen",
+          "AMMO",
+          "Lissa Szymonowicz",
+          "Trepta"
+        ],
+        [
+          "Amit Cohen",
+          "AMMO",
+          "Morné Matthews",
+          "Kwa88a"
+        ],
+        [
+          "Amit Cohen",
+          "AMMO",
+          "Paul Lingenfelder",
+          "paul_l"
+        ],
+        [
+          "Kylie Schlosberg",
+          "kschlosberg",
+          "Martin Sher",
+          "Mutton"
+        ],
+        [
+          "Kylie Schlosberg",
+          "kschlosberg",
+          "Paul Lingenfelder",
+          "paul_l"
+        ],
+        [
+          "Lissa Szymonowicz",
+          "Trepta",
+          "Kylie Schlosberg",
+          "kschlosberg"
+        ],
+        [
+          "Lissa Szymonowicz",
+          "Trepta",
+          "Martin Sher",
+          "Mutton"
+        ],
+        [
+          "Lissa Szymonowicz",
+          "Trepta",
+          "Paul Lingenfelder",
+          "paul_l"
+        ],
+        [
+          "Morné Matthews",
+          "Kwa88a",
+          "Kylie Schlosberg",
+          "kschlosberg"
+        ],
+        [
+          "Morné Matthews",
+          "Kwa88a",
+          "Lissa Szymonowicz",
+          "Trepta"
+        ],
+        [
+          "Morné Matthews",
+          "Kwa88a",
+          "Paul Lingenfelder",
+          "paul_l"
+        ],
+        [
+          "Morné Matthews",
+          "Kwa88a",
+          "Samantha James",
+          "SammyJ"
+        ],
+        [
+          "Samantha James",
+          "SammyJ",
+          "Martin Sher",
+          "Mutton"
+        ],
+        [
+          "Samantha James",
+          "SammyJ",
+          "Paul Lingenfelder",
+          "paul_l"
+        ]
+      ],
+      "results": [
+        [
+          "2026-10-18",
+          "Martin Sher",
+          "Mutton",
+          9,
+          6,
+          "Amit Cohen",
+          "AMMO",
+          "10.68",
+          "15.24"
+        ],
+        [
+          "2026-10-17",
+          "Paul Lingenfelder",
+          "paul_l",
+          4,
+          9,
+          "Martin Sher",
+          "Mutton",
+          "10.57",
+          "7.54"
+        ],
+        [
+          "2026-10-14",
+          "Kylie Schlosberg",
+          "kschlosberg",
+          9,
+          5,
+          "Ivan Horowitz",
+          "IBH",
+          "18.44",
+          "19.74"
+        ],
+        [
+          "2026-10-13",
+          "Samantha James",
+          "SammyJ",
+          0,
+          9,
+          "Amit Cohen",
+          "AMMO",
+          "36.41",
+          "8.69"
+        ],
+        [
+          "2026-10-12",
+          "Kylie Schlosberg",
+          "kschlosberg",
+          9,
+          1,
+          "Samantha James",
+          "SammyJ",
+          "19.87",
+          "62.34"
+        ],
+        [
+          "2026-10-10",
+          "Martin Sher",
+          "Mutton",
+          1,
+          9,
+          "Morné Matthews",
+          "Kwa88a",
+          "9.25",
+          "20.23"
+        ],
+        [
+          "2026-10-10",
+          "Ivan Horowitz",
+          "IBH",
+          4,
+          9,
+          "Martin Sher",
+          "Mutton",
+          "21.48",
+          "10.53"
+        ],
+        [
+          "2026-10-05",
+          "Paul Lingenfelder",
+          "paul_l",
+          2,
+          9,
+          "Ivan Horowitz",
+          "IBH",
+          "26.10",
+          "21.74"
+        ],
+        [
+          "2026-10-05",
+          "Ivan Horowitz",
+          "IBH",
+          9,
+          1,
+          "Samantha James",
+          "SammyJ",
+          "22.52",
+          "51.12"
+        ],
+        [
+          "2026-10-04",
+          "Lissa Szymonowicz",
+          "Trepta",
+          1,
+          9,
+          "Ivan Horowitz",
+          "IBH",
+          "19.34",
+          "17.18"
+        ],
+        [
+          "2026-09-29",
+          "Alain Dekker",
+          "abdekker",
+          7,
+          9,
+          "Lissa Szymonowicz",
+          "Trepta",
+          "5.68",
+          "20.95"
+        ],
+        [
+          "2026-09-29",
+          "Kylie Schlosberg",
+          "kschlosberg",
+          7,
+          9,
+          "Alain Dekker",
+          "abdekker",
+          "18.51",
+          "13.85"
+        ],
+        [
+          "2026-09-27",
+          "Lissa Szymonowicz",
+          "Trepta",
+          9,
+          2,
+          "Samantha James",
+          "SammyJ",
+          "14.77",
+          "37.99"
+        ],
+        [
+          "2026-09-27",
+          "Alain Dekker",
+          "abdekker",
+          9,
+          5,
+          "Martin Sher",
+          "Mutton",
+          "6.52",
+          "16.42"
+        ],
+        [
+          "2026-09-26",
+          "Ivan Horowitz",
+          "IBH",
+          2,
+          9,
+          "Morné Matthews",
+          "Kwa88a",
+          "11.09",
+          "11.98"
+        ],
+        [
+          "2026-09-24",
+          "Ivan Horowitz",
+          "IBH",
+          9,
+          4,
+          "Alain Dekker",
+          "abdekker",
+          "23.04",
+          "9.59"
+        ],
+        [
+          "2026-09-20",
+          "Alain Dekker",
+          "abdekker",
+          9,
+          4,
+          "Morné Matthews",
+          "Kwa88a",
+          "7.61",
+          "15.57"
+        ],
+        [
+          "2026-09-20",
+          "Ivan Horowitz",
+          "IBH",
+          9,
+          2,
+          "Amit Cohen",
+          "AMMO",
+          "19.39",
+          "8.06"
+        ],
+        [
+          "2026-09-19",
+          "Paul Lingenfelder",
+          "paul_l",
+          9,
+          5,
+          "Alain Dekker",
+          "abdekker",
+          "15.94",
+          "10.55"
+        ],
+        [
+          "2026-09-18",
+          "Amit Cohen",
+          "AMMO",
+          8,
+          9,
+          "Alain Dekker",
+          "abdekker",
+          "10.12",
+          "9.00"
+        ],
+        [
+          "2026-09-18",
+          "Alain Dekker",
+          "abdekker",
+          9,
+          0,
+          "Samantha James",
+          "SammyJ",
+          "7.95",
+          "52.37"
+        ]
+      ]
+    },
+    "Guppy Group Red": {
+      "played": "17 / 36",
+      "outstanding": 19,
+      "averagePR": "20.95",
+      "deadline": "6 Dec 2026",
+      "standings": [
+        [
+          "Ofer Hollinger",
+          "FalafelGambit",
+          "7",
+          "14",
+          "66.67%",
+          "5",
+          "4",
+          "0",
+          "17.23",
+          "2",
+          "71.43%",
+          "0.46"
+        ],
+        [
+          "Jane Lockhart",
+          "OMJ",
+          "8",
+          "13",
+          "54.17%",
+          "4",
+          "5",
+          "0",
+          "19.81",
+          "4",
+          "50.00%",
+          "-0.67"
+        ],
+        [
+          "Robert Schlosberg",
+          "RobS710",
+          "3",
+          "7",
+          "77.78%",
+          "2",
+          "3",
+          "0",
+          "13.50",
+          "1",
+          "66.67%",
+          "0.47"
+        ],
+        [
+          "Clynt Tarboton",
+          "clyntontarboton",
+          "3",
+          "6",
+          "66.67%",
+          "2",
+          "2",
+          "0",
+          "17.11",
+          "1",
+          "66.67%",
+          "0.18"
+        ],
+        [
+          "Dixon Bessinger",
+          "Dixon",
+          "2",
+          "4",
+          "66.67%",
+          "2",
+          "0",
+          "0",
+          "34.45",
+          "0",
+          "100.00%",
+          "1.83"
+        ],
+        [
+          "Zaid Adams",
+          "doubletiger",
+          "4",
+          "4",
+          "33.33%",
+          "1",
+          "2",
+          "0",
+          "22.65",
+          "3",
+          "25.00%",
+          "0.50"
+        ],
+        [
+          "Tracey Wainstein",
+          "Trace",
+          "3",
+          "3",
+          "33.33%",
+          "1",
+          "1",
+          "0",
+          "20.08",
+          "2",
+          "33.33%",
+          "0.77"
+        ],
+        [
+          "Jordan Cox",
+          "jordan_cox",
+          "2",
+          "0",
+          "0.00%",
+          "0",
+          "0",
+          "0",
+          "18.16",
+          "2",
+          "0.00%",
+          "-0.26"
+        ],
+        [
+          "Ione de Beer",
+          "Blush",
+          "2",
+          "0",
+          "0.00%",
+          "0",
+          "0",
+          "0",
+          "42.64",
+          "2",
+          "0.00%",
+          "-0.76"
+        ]
+      ],
+      "fixtures": [
+        [
+          "Clynt Tarboton",
+          "clyntontarboton",
+          "Dixon Bessinger",
+          "Dixon"
+        ],
+        [
+          "Clynt Tarboton",
+          "clyntontarboton",
+          "Ione de Beer",
+          "Blush"
+        ],
+        [
+          "Clynt Tarboton",
+          "clyntontarboton",
+          "Robert Schlosberg",
+          "RobS710"
+        ],
+        [
+          "Dixon Bessinger",
+          "Dixon",
+          "Ione de Beer",
+          "Blush"
+        ],
+        [
+          "Jordan Cox",
+          "jordan_cox",
+          "Clynt Tarboton",
+          "clyntontarboton"
+        ],
+        [
+          "Jordan Cox",
+          "jordan_cox",
+          "Dixon Bessinger",
+          "Dixon"
+        ],
+        [
+          "Jordan Cox",
+          "jordan_cox",
+          "Ione de Beer",
+          "Blush"
+        ],
+        [
+          "Jordan Cox",
+          "jordan_cox",
+          "Robert Schlosberg",
+          "RobS710"
+        ],
+        [
+          "Ofer Hollinger",
+          "FalafelGambit",
+          "Ione de Beer",
+          "Blush"
+        ],
+        [
+          "Robert Schlosberg",
+          "RobS710",
+          "Dixon Bessinger",
+          "Dixon"
+        ],
+        [
+          "Robert Schlosberg",
+          "RobS710",
+          "Ione de Beer",
+          "Blush"
+        ],
+        [
+          "Tracey Wainstein",
+          "Trace",
+          "Clynt Tarboton",
+          "clyntontarboton"
+        ],
+        [
+          "Tracey Wainstein",
+          "Trace",
+          "Dixon Bessinger",
+          "Dixon"
+        ],
+        [
+          "Tracey Wainstein",
+          "Trace",
+          "Ione de Beer",
+          "Blush"
+        ],
+        [
+          "Tracey Wainstein",
+          "Trace",
+          "Jordan Cox",
+          "jordan_cox"
+        ],
+        [
+          "Zaid Adams",
+          "doubletiger",
+          "Dixon Bessinger",
+          "Dixon"
+        ],
+        [
+          "Zaid Adams",
+          "doubletiger",
+          "Jordan Cox",
+          "jordan_cox"
+        ],
+        [
+          "Zaid Adams",
+          "doubletiger",
+          "Robert Schlosberg",
+          "RobS710"
+        ],
+        [
+          "Zaid Adams",
+          "doubletiger",
+          "Tracey Wainstein",
+          "Trace"
+        ]
+      ],
+      "results": [
+        [
+          "2026-10-14",
+          "Jane Lockhart",
+          "OMJ",
+          5,
+          9,
+          "Dixon Bessinger",
+          "Dixon",
+          "21.70",
+          "29.12"
+        ],
+        [
+          "2026-10-13",
+          "Jane Lockhart",
+          "OMJ",
+          9,
+          0,
+          "Ione de Beer",
+          "Blush",
+          "17.56",
+          "44.94"
+        ],
+        [
+          "2026-10-11",
+          "Ofer Hollinger",
+          "FalafelGambit",
+          5,
+          9,
+          "Dixon Bessinger",
+          "Dixon",
+          "19.29",
+          "39.77"
+        ],
+        [
+          "2026-10-11",
+          "Ofer Hollinger",
+          "FalafelGambit",
+          9,
+          6,
+          "Robert Schlosberg",
+          "RobS710",
+          "19.94",
+          "11.06"
+        ],
+        [
+          "2026-10-10",
+          "Ofer Hollinger",
+          "FalafelGambit",
+          9,
+          2,
+          "Zaid Adams",
+          "doubletiger",
+          "7.94",
+          "23.06"
+        ],
+        [
+          "2026-10-10",
+          "Ofer Hollinger",
+          "FalafelGambit",
+          9,
+          3,
+          "Jordan Cox",
+          "jordan_cox",
+          "9.36",
+          "18.42"
+        ],
+        [
+          "2026-10-09",
+          "Zaid Adams",
+          "doubletiger",
+          8,
+          9,
+          "Clynt Tarboton",
+          "clyntontarboton",
+          "24.93",
+          "16.28"
+        ],
+        [
+          "2026-10-08",
+          "Robert Schlosberg",
+          "RobS710",
+          9,
+          6,
+          "Tracey Wainstein",
+          "Trace",
+          "18.48",
+          "19.19"
+        ],
+        [
+          "2026-10-08",
+          "Jordan Cox",
+          "jordan_cox",
+          8,
+          9,
+          "Jane Lockhart",
+          "OMJ",
+          "17.91",
+          "9.44"
+        ],
+        [
+          "2026-10-07",
+          "Tracey Wainstein",
+          "Trace",
+          9,
+          1,
+          "Jane Lockhart",
+          "OMJ",
+          "22.57",
+          "16.85"
+        ],
+        [
+          "2026-10-04",
+          "Jane Lockhart",
+          "OMJ",
+          1,
+          9,
+          "Robert Schlosberg",
+          "RobS710",
+          "22.46",
+          "10.97"
+        ],
+        [
+          "2026-09-28",
+          "Jane Lockhart",
+          "OMJ",
+          9,
+          6,
+          "Clynt Tarboton",
+          "clyntontarboton",
+          "20.07",
+          "19.14"
+        ],
+        [
+          "2026-09-27",
+          "Ofer Hollinger",
+          "FalafelGambit",
+          6,
+          9,
+          "Clynt Tarboton",
+          "clyntontarboton",
+          "13.58",
+          "15.93"
+        ],
+        [
+          "2026-09-27",
+          "Ofer Hollinger",
+          "FalafelGambit",
+          9,
+          0,
+          "Jane Lockhart",
+          "OMJ",
+          "31.87",
+          "30.74"
+        ],
+        [
+          "2026-09-27",
+          "Ofer Hollinger",
+          "FalafelGambit",
+          9,
+          3,
+          "Tracey Wainstein",
+          "Trace",
+          "18.66",
+          "18.49"
+        ],
+        [
+          "2026-09-25",
+          "Ione de Beer",
+          "Blush",
+          4,
+          9,
+          "Zaid Adams",
+          "doubletiger",
+          "40.34",
+          "23.28"
+        ],
+        [
+          "2026-09-18",
+          "Zaid Adams",
+          "doubletiger",
+          7,
+          9,
+          "Jane Lockhart",
+          "OMJ",
+          "19.32",
+          "19.67"
+        ]
+      ]
+    },
+    "Guppy Group Green": {
+      "played": "17 / 36",
+      "outstanding": 19,
+      "averagePR": "16.89",
+      "deadline": "6 Dec 2026",
+      "standings": [
+        [
+          "Doug Brown",
+          "DougBrown",
+          "8",
+          "17",
+          "70.83%",
+          "5",
+          "7",
+          "0",
+          "11.78",
+          "3",
+          "62.50%",
+          "0.75"
+        ],
+        [
+          "Fiona Fehrsen",
+          "Spinel",
+          "5",
+          "9",
+          "60.00%",
+          "2",
+          "5",
+          "0",
+          "9.60",
+          "3",
+          "40.00%",
+          "-0.18"
+        ],
+        [
+          "Ashleigh Wainstein",
+          "Ashysw",
+          "3",
+          "6",
+          "66.67%",
+          "3",
+          "0",
+          "0",
+          "21.93",
+          "0",
+          "100.00%",
+          "5.77"
+        ],
+        [
+          "Jannie Stamis",
+          "YanniS",
+          "5",
+          "6",
+          "40.00%",
+          "2",
+          "2",
+          "0",
+          "16.95",
+          "3",
+          "40.00%",
+          "-2.02"
+        ],
+        [
+          "Louise Nell",
+          "Supalu",
+          "2",
+          "5",
+          "83.33%",
+          "2",
+          "1",
+          "0",
+          "16.53",
+          "0",
+          "100.00%",
+          "0.61"
+        ],
+        [
+          "Steve Ryan",
+          "steveRather",
+          "5",
+          "3",
+          "20.00%",
+          "1",
+          "1",
+          "0",
+          "23.53",
+          "4",
+          "20.00%",
+          "1.22"
+        ],
+        [
+          "Mark Sherwood",
+          "Quaffer",
+          "2",
+          "2",
+          "33.33%",
+          "1",
+          "0",
+          "0",
+          "21.63",
+          "1",
+          "50.00%",
+          "-2.60"
+        ],
+        [
+          "Declan Lombard",
+          "Declan",
+          "2",
+          "2",
+          "33.33%",
+          "1",
+          "0",
+          "0",
+          "24.81",
+          "1",
+          "50.00%",
+          "0.77"
+        ],
+        [
+          "Paul Rishworth",
+          "Paul11ZZ",
+          "2",
+          "1",
+          "16.67%",
+          "0",
+          "1",
+          "0",
+          "18.97",
+          "2",
+          "0.00%",
+          "-1.33"
+        ]
+      ],
+      "fixtures": [
+        [
+          "Declan Lombard",
+          "Declan",
+          "Ashleigh Wainstein",
+          "Ashysw"
+        ],
+        [
+          "Declan Lombard",
+          "Declan",
+          "Mark Sherwood",
+          "Quaffer"
+        ],
+        [
+          "Fiona Fehrsen",
+          "Spinel",
+          "Declan Lombard",
+          "Declan"
+        ],
+        [
+          "Fiona Fehrsen",
+          "Spinel",
+          "Louise Nell",
+          "Supalu"
+        ],
+        [
+          "Fiona Fehrsen",
+          "Spinel",
+          "Paul Rishworth",
+          "Paul11ZZ"
+        ],
+        [
+          "Jannie Stamis",
+          "YanniS",
+          "Ashleigh Wainstein",
+          "Ashysw"
+        ],
+        [
+          "Jannie Stamis",
+          "YanniS",
+          "Mark Sherwood",
+          "Quaffer"
+        ],
+        [
+          "Jannie Stamis",
+          "YanniS",
+          "Paul Rishworth",
+          "Paul11ZZ"
+        ],
+        [
+          "Louise Nell",
+          "Supalu",
+          "Ashleigh Wainstein",
+          "Ashysw"
+        ],
+        [
+          "Louise Nell",
+          "Supalu",
+          "Declan Lombard",
+          "Declan"
+        ],
+        [
+          "Louise Nell",
+          "Supalu",
+          "Mark Sherwood",
+          "Quaffer"
+        ],
+        [
+          "Louise Nell",
+          "Supalu",
+          "Paul Rishworth",
+          "Paul11ZZ"
+        ],
+        [
+          "Louise Nell",
+          "Supalu",
+          "Steve Ryan",
+          "steveRather"
+        ],
+        [
+          "Mark Sherwood",
+          "Quaffer",
+          "Ashleigh Wainstein",
+          "Ashysw"
+        ],
+        [
+          "Paul Rishworth",
+          "Paul11ZZ",
+          "Ashleigh Wainstein",
+          "Ashysw"
+        ],
+        [
+          "Paul Rishworth",
+          "Paul11ZZ",
+          "Declan Lombard",
+          "Declan"
+        ],
+        [
+          "Paul Rishworth",
+          "Paul11ZZ",
+          "Mark Sherwood",
+          "Quaffer"
+        ],
+        [
+          "Steve Ryan",
+          "steveRather",
+          "Declan Lombard",
+          "Declan"
+        ],
+        [
+          "Steve Ryan",
+          "steveRather",
+          "Mark Sherwood",
+          "Quaffer"
+        ]
+      ],
+      "results": [
+        [
+          "2026-10-18",
+          "Ashleigh Wainstein",
+          "Ashysw",
+          9,
+          4,
+          "Fiona Fehrsen",
+          "Spinel",
+          "14.76",
+          "5.27"
+        ],
+        [
+          "2026-10-10",
+          "Fiona Fehrsen",
+          "Spinel",
+          8,
+          9,
+          "Mark Sherwood",
+          "Quaffer",
+          "6.80",
+          "24.53"
+        ],
+        [
+          "2026-10-10",
+          "Jannie Stamis",
+          "YanniS",
+          6,
+          9,
+          "Declan Lombard",
+          "Declan",
+          "14.79",
+          "15.37"
+        ],
+        [
+          "2026-10-07",
+          "Doug Brown",
+          "DougBrown",
+          9,
+          4,
+          "Declan Lombard",
+          "Declan",
+          "11.09",
+          "34.26"
+        ],
+        [
+          "2026-10-06",
+          "Mark Sherwood",
+          "Quaffer",
+          0,
+          9,
+          "Doug Brown",
+          "DougBrown",
+          "18.73",
+          "10.97"
+        ],
+        [
+          "2026-10-03",
+          "Jannie Stamis",
+          "YanniS",
+          4,
+          9,
+          "Louise Nell",
+          "Supalu",
+          "13.93",
+          "11.70"
+        ],
+        [
+          "2026-10-01",
+          "Jannie Stamis",
+          "YanniS",
+          9,
+          6,
+          "Doug Brown",
+          "DougBrown",
+          "17.49",
+          "15.17"
+        ],
+        [
+          "2026-09-27",
+          "Louise Nell",
+          "Supalu",
+          9,
+          7,
+          "Doug Brown",
+          "DougBrown",
+          "21.37",
+          "10.36"
+        ],
+        [
+          "2026-09-27",
+          "Fiona Fehrsen",
+          "Spinel",
+          2,
+          9,
+          "Doug Brown",
+          "DougBrown",
+          "11.56",
+          "12.15"
+        ],
+        [
+          "2026-09-27",
+          "Jannie Stamis",
+          "YanniS",
+          9,
+          3,
+          "Steve Ryan",
+          "steveRather",
+          "15.21",
+          "24.54"
+        ],
+        [
+          "2026-09-24",
+          "Ashleigh Wainstein",
+          "Ashysw",
+          9,
+          2,
+          "Doug Brown",
+          "DougBrown",
+          "26.67",
+          "14.48"
+        ],
+        [
+          "2026-09-23",
+          "Steve Ryan",
+          "steveRather",
+          6,
+          9,
+          "Fiona Fehrsen",
+          "Spinel",
+          "26.07",
+          "11.44"
+        ],
+        [
+          "2026-09-23",
+          "Steve Ryan",
+          "steveRather",
+          9,
+          3,
+          "Paul Rishworth",
+          "Paul11ZZ",
+          "23.92",
+          "19.21"
+        ],
+        [
+          "2026-09-23",
+          "Paul Rishworth",
+          "Paul11ZZ",
+          5,
+          9,
+          "Doug Brown",
+          "DougBrown",
+          "18.74",
+          "12.17"
+        ],
+        [
+          "2026-09-22",
+          "Doug Brown",
+          "DougBrown",
+          9,
+          4,
+          "Steve Ryan",
+          "steveRather",
+          "7.87",
+          "22.09"
+        ],
+        [
+          "2026-09-22",
+          "Ashleigh Wainstein",
+          "Ashysw",
+          9,
+          8,
+          "Steve Ryan",
+          "steveRather",
+          "24.37",
+          "21.04"
+        ],
+        [
+          "2026-09-17",
+          "Jannie Stamis",
+          "YanniS",
+          2,
+          9,
+          "Fiona Fehrsen",
+          "Spinel",
+          "23.36",
+          "12.95"
+        ]
+      ]
+    }
+  }
 }
