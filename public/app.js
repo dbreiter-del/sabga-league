@@ -28,7 +28,7 @@ function renderSummary(league) {
     ['Matches played', played, `of ${total} scheduled`],
     ['Still to play', league.outstanding, 'fixtures outstanding'],
     ['Group average PR', league.averagePR, 'lower is stronger'],
-    ['Series deadline', league.deadline || 'â', '2026 season']
+    ['Series deadline', league.deadline || '---', '2026 season']
   ];
   $('#summary').innerHTML = values.map(([label, value, note]) =>
     `<article class="stat-card"><div class="stat-label">${escapeHtml(label)}</div><div class="stat-value">${escapeHtml(value)}</div><div class="stat-note">${escapeHtml(note)}</div></article>`
@@ -53,7 +53,7 @@ function matchCard(match, isResult) {
   const dateLabel = isResult
     ? new Date(`${date}T12:00:00`).toLocaleDateString('en-ZA', { day: 'numeric', month: 'short', year: 'numeric' }).toUpperCase()
     : 'FIXTURE';
-  return `<article class="match-card"><div><div class="match-date">${escapeHtml(dateLabel)}</div><div class="match-players"><span class="match-side">${playerCell(name1, handle1)}</span><span class="versus">VS</span><span class="match-side">${playerCell(name2, handle2)}</span></div></div>${isResult ? `<div class="match-score">${escapeHtml(score1)} â ${escapeHtml(score2)}<small>PR ${escapeHtml(pr1)} Â· ${escapeHtml(pr2)}</small></div>` : '<span class="status-badge">UPCOMING</span>'}</article>`;
+  return `<article class="match-card"><div><div class="match-date">${escapeHtml(dateLabel)}</div><div class="match-players"><span class="match-side">${playerCell(name1, handle1)}</span><span class="versus">VS</span><span class="match-side">${playerCell(name2, handle2)}</span></div></div>${isResult ? `<div class="match-score">${escapeHtml(score1)} --- ${escapeHtml(score2)}<small>PR ${escapeHtml(pr1)} -- ${escapeHtml(pr2)}</small></div>` : '<span class="status-badge">UPCOMING</span>'}</article>`;
 }
 
 function renderMatches(rows, filter, isResult) {
@@ -87,7 +87,7 @@ function render() {
     $('#content').innerHTML = renderMatches(fixtures, filter, false);
   }
   if (view === 'results') $('#content').innerHTML = renderMatches(league.results, filter, true);
-  $('#data-note').textContent = `All 11 league groups Â· Snapshot retrieved ${appData.fetched}. SABGA may update scores after this snapshot. Tap Refresh for the official live page.`;
+  $('#data-note').textContent = `All 11 league groups -- Snapshot retrieved ${appData.fetched}. SABGA may update scores after this snapshot. Tap Refresh for the official live page.`;
 }
 
 document.querySelectorAll('[data-view]').forEach(button => button.addEventListener('click', () => {
