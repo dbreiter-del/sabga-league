@@ -34,9 +34,11 @@ http.createServer((request, response) => {
       response.writeHead(error.code === 'ENOENT' ? 404 : 500).end('Not found');
       return;
     }
+    const fileName = path.basename(filePath);
+    const shouldRevalidate = ['index.html', 'app.js', 'styles.css', 'data.json', 'sw.js'].includes(fileName);
     response.writeHead(200, {
       'Content-Type': contentTypes[path.extname(filePath)] || 'application/octet-stream',
-      'Cache-Control': path.basename(filePath) === 'data.json' ? 'no-cache' : 'public, max-age=3600'
+      'Cache-Control': shouldRevalidate ? 'no-cache' : 'public, max-age=3600'
     });
     response.end(content);
   });
