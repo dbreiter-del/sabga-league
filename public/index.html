@@ -59,8 +59,8 @@
           <div><p class="eyebrow" id="panel-kicker">THE TABLE</p><h2 id="panel-title">A-League standings</h2></div>
           <label class="search-box"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Find a player" autocomplete="off" /></label>
         </section>
-        <div id="content" class="content-area"></div>
-        <p class="data-note" id="data-note"></p>
+        <div id="content" class="content-area"><div class="empty-state">Loading A-League standings…</div></div>
+        <p class="data-note" id="data-note">Loading league data…</p>
 
         <section class="about-card">
           <div class="about-icon">✦</div>
@@ -75,7 +75,7 @@
       <button data-view="results"><span>✓</span>Results</button>
       <a href="https://www.sabga.co.za/league/" target="_blank" rel="noreferrer"><span>↗</span>Live site</a>
     </nav>
-    <script src="app.js?v=3"></script>
-    <script>if ('serviceWorker' in navigator && location.protocol !== 'file:') navigator.serviceWorker.register('./sw.js');</script>
+    <script src="app.js?v=4"></script>
+    <script>if ('serviceWorker' in navigator && location.protocol !== 'file:') navigator.serviceWorker.register('./sw.js?v=3', { updateViaCache: 'none' });</script>
   </body>
 </html>
