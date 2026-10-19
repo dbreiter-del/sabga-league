@@ -4,6 +4,24 @@ const $ = (s) => document.querySelector(s);
 let view = 'standings';
 const groupSelect = $('#league-select');
 const sourceUrl = 'https://www.sabga.co.za/league/';
+const groupIds = {
+  'A-League': 91,
+  'B-League': 92,
+  'C-League': 93,
+  'D-League': 94,
+  'E-League': 95,
+  'F-League': 96,
+  'G-League': 97,
+  'Guppy Group Yellow': 98,
+  'Guppy Group Blue': 100,
+  'Guppy Group Red': 99,
+  'Guppy Group Green': 101
+};
+
+function officialUrl(group, officialView = 'standings') {
+  const id = groupIds[group];
+  return `${sourceUrl}?sabga_view=${officialView}&sabga_group=${id}`;
+}
 
 function renderSummary() {
   const values = [
@@ -41,8 +59,8 @@ function render() {
   $('#panel-kicker').textContent=titles[view][0]; $('#panel-title').textContent=titles[view][1];
   const filter=$('#search').value.trim();
   if(!isA) {
-    $('#content').innerHTML=`<div class="empty-state"><strong>${group} data is available on the live SABGA league page.</strong><br><br>This app’s bundled snapshot currently covers A-League. Open SABGA for the latest ${group} standings, fixtures and results.<br><br><a href="${sourceUrl}" target="_blank" rel="noreferrer">Open live league data ↗</a></div>`;
-    $('#data-note').textContent='Live league tables are maintained by SABGA.'; return;
+    $('#content').innerHTML=`<div class="empty-state"><strong>Open the latest ${group} data on SABGA.</strong><br><br>Choose a view to see the official standings, remaining fixtures, or match results and PR ratings.<br><br><div class="group-links"><a href="${officialUrl(group,'standings')}" target="_blank" rel="noreferrer">Standings ↗</a><a href="${officialUrl(group,'remaining')}" target="_blank" rel="noreferrer">Fixtures ↗</a><a href="${officialUrl(group,'results')}" target="_blank" rel="noreferrer">Results &amp; PR ↗</a></div></div>`;
+    $('#data-note').textContent='SABGA’s live page provides the full data for every league.'; return;
   }
   if(view==='standings') $('#content').innerHTML=renderStandings(filter);
   if(view==='fixtures') $('#content').innerHTML=renderMatches(league.fixtures.map(x=>['2026-12-06',...x.slice(0,2),null,null,...x.slice(2)]),filter,false);
@@ -57,5 +75,5 @@ document.querySelectorAll('[data-view]').forEach(button=>button.addEventListener
 }));
 $('#search').addEventListener('input',render);
 groupSelect.addEventListener('change',render);
-$('#refresh-button').addEventListener('click',()=>window.open(sourceUrl,'_blank','noopener,noreferrer'));
+$('#refresh-button').addEventListener('click',()=>window.open(officialUrl(groupSelect.value),'_blank','noopener,noreferrer'));
 fetch('./data.json').then(response => { if (!response.ok) throw new Error('League data unavailable'); return response.json(); }).then(data => { league = data; renderSummary(); render(); }).catch(() => { $('#content').innerHTML = '<div class="empty-state">League data could not be loaded. Please try again.</div>'; });
