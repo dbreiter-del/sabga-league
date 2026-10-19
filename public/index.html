@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#173b2e" />
+    <meta name="description" content="SABGA Round Robin League standings, fixtures and match ratings." />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="icon" href="icons/icon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="icons/icon.svg" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>SABGA Leagues</title>
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <a class="brand" href="#home" aria-label="SABGA Leagues home">
+          <span class="brand-mark" aria-hidden="true"><b>S</b><b>A</b><b>B</b><b>G</b><b>A</b></span>
+          <span class="brand-copy"><strong>SABGA</strong><small>ROUND ROBIN LEAGUES</small></span>
+        </a>
+        <a class="official-link" href="https://www.sabga.co.za/league/" target="_blank" rel="noreferrer">Official site <span>↗</span></a>
+      </header>
+
+      <main id="home">
+        <section class="hero">
+          <div class="hero-copy">
+            <p class="eyebrow"><span class="live-dot"></span> SOUTH AFRICAN BACKGAMMON</p>
+            <h1>League<br /><em>central.</em></h1>
+            <p class="hero-sub">The race, the matchups, the numbers. All in one place.</p>
+          </div>
+          <div class="season-card">
+            <div class="season-label">CURRENT SEASON</div>
+            <div class="season-title">2026 <span>·</span> Series 4</div>
+            <div class="season-rule"><span></span></div>
+            <div class="season-foot"><span>Final deadline</span><strong>6 Dec 2026</strong></div>
+          </div>
+        </section>
+
+        <section class="controls" aria-label="League selection">
+          <div class="select-wrap">
+            <label for="league-select">GROUP</label>
+            <select id="league-select" aria-label="Select league group">
+              <option>A-League</option><option>B-League</option><option>C-League</option><option>D-League</option><option>E-League</option><option>F-League</option><option>G-League</option>
+              <option>Guppy Group Yellow</option><option>Guppy Group Blue</option><option>Guppy Group Red</option><option>Guppy Group Green</option>
+            </select>
+          </div>
+          <button id="refresh-button" class="refresh-button" type="button" aria-label="Open latest league data">↻ <span>Refresh</span></button>
+        </section>
+
+        <section id="summary" class="summary-grid" aria-label="League summary"></section>
+
+        <nav class="tabs" aria-label="League views" role="tablist">
+          <button class="tab active" role="tab" aria-selected="true" data-view="standings"><span class="tab-icon">▤</span>Standings</button>
+          <button class="tab" role="tab" aria-selected="false" data-view="fixtures"><span class="tab-icon">◷</span>Fixtures <span class="tab-count" id="fixture-count">31</span></button>
+          <button class="tab" role="tab" aria-selected="false" data-view="results"><span class="tab-icon">✓</span>Results <span class="tab-count" id="result-count">14</span></button>
+        </nav>
+
+        <section class="panel-head">
+          <div><p class="eyebrow" id="panel-kicker">THE TABLE</p><h2 id="panel-title">A-League standings</h2></div>
+          <label class="search-box"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Find a player" autocomplete="off" /></label>
+        </section>
+        <div id="content" class="content-area"></div>
+        <p class="data-note" id="data-note"></p>
+
+        <section class="about-card">
+          <div class="about-icon">✦</div>
+          <div><p class="eyebrow">HOW IT WORKS</p><h3>More than just wins.</h3><p>Standings combine match points, wins, PR wins and head-to-head results. Performance Rating (PR) tracks playing strength; lower is better.</p><a href="https://www.sabga.co.za/sabga-round-robin-leagues/" target="_blank" rel="noreferrer">About the SABGA leagues <span>↗</span></a></div>
+        </section>
+      </main>
+      <footer><span class="footer-mark">SABGA</span><span>Built for the backgammon community.</span><a href="https://www.sabga.co.za/league/" target="_blank" rel="noreferrer">Source data ↗</a></footer>
+    </div>
+    <nav class="bottom-nav" aria-label="Quick navigation">
+      <button class="active" data-view="standings"><span>▤</span>Table</button>
+      <button data-view="fixtures"><span>◷</span>Fixtures</button>
+      <button data-view="results"><span>✓</span>Results</button>
+      <a href="https://www.sabga.co.za/league/" target="_blank" rel="noreferrer"><span>↗</span>Live site</a>
+    </nav>
+    <script src="app.js"></script>
+    <script>if ('serviceWorker' in navigator && location.protocol !== 'file:') navigator.serviceWorker.register('./sw.js');</script>
+  </body>
+</html>

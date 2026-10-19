@@ -1,0 +1,494 @@
+{
+  "season": "2026 · Series 4",
+  "fetched": "19 Oct 2026",
+  "played": "14 / 45",
+  "outstanding": 31,
+  "averagePR": "5.98",
+  "deadline": "6 Dec 2026",
+  "standings": [
+    [
+      "Max Urban",
+      "Urban",
+      4,
+      9,
+      "75.00%",
+      3,
+      3,
+      0,
+      "3.95",
+      1,
+      "75.00%",
+      "0.69"
+    ],
+    [
+      "David Endean",
+      "lordvader",
+      3,
+      6,
+      "66.67%",
+      3,
+      0,
+      0,
+      "10.06",
+      0,
+      "100.00%",
+      "2.36"
+    ],
+    [
+      "Tony Moutzouris",
+      "Rhino",
+      3,
+      6,
+      "66.67%",
+      2,
+      2,
+      0,
+      "4.37",
+      1,
+      "66.67%",
+      "1.01"
+    ],
+    [
+      "Doron Claxton",
+      "majesticdc",
+      4,
+      6,
+      "50.00%",
+      2,
+      2,
+      0,
+      "5.01",
+      2,
+      "50.00%",
+      "-0.08"
+    ],
+    [
+      "Farshad Khoshroo",
+      "Farshad",
+      4,
+      5,
+      "41.67%",
+      2,
+      1,
+      0,
+      "5.69",
+      2,
+      "50.00%",
+      "-0.62"
+    ],
+    [
+      "Jens Aaris",
+      "JensA",
+      2,
+      4,
+      "66.67%",
+      1,
+      2,
+      0,
+      "7.53",
+      1,
+      "50.00%",
+      "-2.13"
+    ],
+    [
+      "Dirk Howsley",
+      "CHEEKYBOY",
+      2,
+      3,
+      "50.00%",
+      1,
+      1,
+      0,
+      "7.01",
+      1,
+      "50.00%",
+      "0.78"
+    ],
+    [
+      "Nick Groll",
+      "NickBG",
+      3,
+      3,
+      "33.33%",
+      0,
+      3,
+      0,
+      "4.83",
+      3,
+      "0.00%",
+      "-1.93"
+    ],
+    [
+      "Michael Hagglund",
+      "MikeHagg",
+      1,
+      0,
+      "0.00%",
+      0,
+      0,
+      0,
+      "5.51",
+      1,
+      "0.00%",
+      "-0.48"
+    ],
+    [
+      "Kerry Baragwanath",
+      "CubinKerry",
+      2,
+      0,
+      "0.00%",
+      0,
+      0,
+      0,
+      "8.25",
+      2,
+      "0.00%",
+      "-2.00"
+    ]
+  ],
+  "results": [
+    [
+      "2026-10-19",
+      "Tony Moutzouris",
+      "Rhino",
+      11,
+      0,
+      "Nick Groll",
+      "NickBG",
+      "5.97",
+      "5.36"
+    ],
+    [
+      "2026-10-14",
+      "Doron Claxton",
+      "majesticdc",
+      9,
+      11,
+      "Max Urban",
+      "Urban",
+      "5.18",
+      "4.25"
+    ],
+    [
+      "2026-10-13",
+      "Dirk Howsley",
+      "CHEEKYBOY",
+      1,
+      11,
+      "Max Urban",
+      "Urban",
+      "9.38",
+      "3.04"
+    ],
+    [
+      "2026-10-12",
+      "Max Urban",
+      "Urban",
+      11,
+      2,
+      "Kerry Baragwanath",
+      "CubinKerry",
+      "3.17",
+      "9.29"
+    ],
+    [
+      "2026-10-12",
+      "David Endean",
+      "lordvader",
+      11,
+      1,
+      "Nick Groll",
+      "NickBG",
+      "11.22",
+      "4.32"
+    ],
+    [
+      "2026-10-11",
+      "Jens Aaris",
+      "JensA",
+      5,
+      11,
+      "David Endean",
+      "lordvader",
+      "8.91",
+      "10.43"
+    ],
+    [
+      "2026-10-08",
+      "Tony Moutzouris",
+      "Rhino",
+      11,
+      0,
+      "Farshad Khoshroo",
+      "Farshad",
+      "3.17",
+      "4.77"
+    ],
+    [
+      "2026-10-07",
+      "Jens Aaris",
+      "JensA",
+      11,
+      9,
+      "Kerry Baragwanath",
+      "CubinKerry",
+      "6.16",
+      "7.22"
+    ],
+    [
+      "2026-10-06",
+      "Doron Claxton",
+      "majesticdc",
+      9,
+      11,
+      "Farshad Khoshroo",
+      "Farshad",
+      "3.66",
+      "4.54"
+    ],
+    [
+      "2026-10-06",
+      "Tony Moutzouris",
+      "Rhino",
+      9,
+      11,
+      "David Endean",
+      "lordvader",
+      "3.96",
+      "8.53"
+    ],
+    [
+      "2026-10-06",
+      "Dirk Howsley",
+      "CHEEKYBOY",
+      11,
+      5,
+      "Farshad Khoshroo",
+      "Farshad",
+      "4.63",
+      "8.66"
+    ],
+    [
+      "2026-09-28",
+      "Doron Claxton",
+      "majesticdc",
+      11,
+      4,
+      "Nick Groll",
+      "NickBG",
+      "7.26",
+      "4.82"
+    ],
+    [
+      "2026-09-27",
+      "Michael Hagglund",
+      "MikeHagg",
+      10,
+      11,
+      "Doron Claxton",
+      "majesticdc",
+      "5.51",
+      "3.93"
+    ],
+    [
+      "2026-09-26",
+      "Farshad Khoshroo",
+      "Farshad",
+      11,
+      6,
+      "Max Urban",
+      "Urban",
+      "4.81",
+      "5.34"
+    ]
+  ],
+  "fixtures": [
+    [
+      "David Endean",
+      "lordvader",
+      "Farshad Khoshroo",
+      "Farshad"
+    ],
+    [
+      "David Endean",
+      "lordvader",
+      "Kerry Baragwanath",
+      "CubinKerry"
+    ],
+    [
+      "Dirk Howsley",
+      "CHEEKYBOY",
+      "David Endean",
+      "lordvader"
+    ],
+    [
+      "Dirk Howsley",
+      "CHEEKYBOY",
+      "Doron Claxton",
+      "majesticdc"
+    ],
+    [
+      "Dirk Howsley",
+      "CHEEKYBOY",
+      "Jens Aaris",
+      "JensA"
+    ],
+    [
+      "Dirk Howsley",
+      "CHEEKYBOY",
+      "Kerry Baragwanath",
+      "CubinKerry"
+    ],
+    [
+      "Dirk Howsley",
+      "CHEEKYBOY",
+      "Nick Groll",
+      "NickBG"
+    ],
+    [
+      "Doron Claxton",
+      "majesticdc",
+      "David Endean",
+      "lordvader"
+    ],
+    [
+      "Doron Claxton",
+      "majesticdc",
+      "Jens Aaris",
+      "JensA"
+    ],
+    [
+      "Doron Claxton",
+      "majesticdc",
+      "Kerry Baragwanath",
+      "CubinKerry"
+    ],
+    [
+      "Farshad Khoshroo",
+      "Farshad",
+      "Kerry Baragwanath",
+      "CubinKerry"
+    ],
+    [
+      "Farshad Khoshroo",
+      "Farshad",
+      "Nick Groll",
+      "NickBG"
+    ],
+    [
+      "Jens Aaris",
+      "JensA",
+      "Farshad Khoshroo",
+      "Farshad"
+    ],
+    [
+      "Jens Aaris",
+      "JensA",
+      "Nick Groll",
+      "NickBG"
+    ],
+    [
+      "Max Urban",
+      "Urban",
+      "David Endean",
+      "lordvader"
+    ],
+    [
+      "Max Urban",
+      "Urban",
+      "Jens Aaris",
+      "JensA"
+    ],
+    [
+      "Max Urban",
+      "Urban",
+      "Michael Hagglund",
+      "MikeHagg"
+    ],
+    [
+      "Max Urban",
+      "Urban",
+      "Nick Groll",
+      "NickBG"
+    ],
+    [
+      "Max Urban",
+      "Urban",
+      "Tony Moutzouris",
+      "Rhino"
+    ],
+    [
+      "Michael Hagglund",
+      "MikeHagg",
+      "David Endean",
+      "lordvader"
+    ],
+    [
+      "Michael Hagglund",
+      "MikeHagg",
+      "Dirk Howsley",
+      "CHEEKYBOY"
+    ],
+    [
+      "Michael Hagglund",
+      "MikeHagg",
+      "Farshad Khoshroo",
+      "Farshad"
+    ],
+    [
+      "Michael Hagglund",
+      "MikeHagg",
+      "Jens Aaris",
+      "JensA"
+    ],
+    [
+      "Michael Hagglund",
+      "MikeHagg",
+      "Kerry Baragwanath",
+      "CubinKerry"
+    ],
+    [
+      "Michael Hagglund",
+      "MikeHagg",
+      "Nick Groll",
+      "NickBG"
+    ],
+    [
+      "Nick Groll",
+      "NickBG",
+      "Kerry Baragwanath",
+      "CubinKerry"
+    ],
+    [
+      "Tony Moutzouris",
+      "Rhino",
+      "Dirk Howsley",
+      "CHEEKYBOY"
+    ],
+    [
+      "Tony Moutzouris",
+      "Rhino",
+      "Doron Claxton",
+      "majesticdc"
+    ],
+    [
+      "Tony Moutzouris",
+      "Rhino",
+      "Jens Aaris",
+      "JensA"
+    ],
+    [
+      "Tony Moutzouris",
+      "Rhino",
+      "Kerry Baragwanath",
+      "CubinKerry"
+    ],
+    [
+      "Tony Moutzouris",
+      "Rhino",
+      "Michael Hagglund",
+      "MikeHagg"
+    ]
+  ]
+}
