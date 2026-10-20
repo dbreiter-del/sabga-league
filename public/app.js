@@ -57,10 +57,15 @@ function matchCard(match, isResult, group) {
   return `<article class="match-card"><div><div class="match-date">${escapeHtml(dateLabel)}</div><div class="match-players"><span class="match-side">${playerCell(name1, handle1)}</span><span class="versus">VS</span><span class="match-side">${playerCell(name2, handle2)}</span></div></div>${isResult ? `<div class="match-score">${escapeHtml(score1)} - ${escapeHtml(score2)}<small>PR ${escapeHtml(pr1)} - ${escapeHtml(pr2)}</small></div>` : '<span class="status-badge">UPCOMING</span>'}</article>`;
 }
 
-function renderMatches(rows, filter, isResult, group) {
+function renderMatches(rows, filter, isResult, group, featuredPlayer = null) {
   const matches = rows.filter(match => match.join(' ').toLowerCase().includes(filter.toLowerCase()));
   return matches.length
-    ? `<div class="match-list">${matches.map(match => matchCard(match, isResult, group)).join('')}</div>`
+    ? `<div class="match-list">${matches.map(match => {
+        if (featuredPlayer && match[5] === featuredPlayer.name && match[6] === featuredPlayer.handle) {
+          match = [match[0], match[5], match[6], match[4], match[3], match[1], match[2], match[8], match[7]];
+        }
+        return matchCard(match, isResult, group);
+      }).join('')}</div>`
     : '<div class="empty-state">No matches found for that player.</div>';
 }
 
@@ -78,8 +83,8 @@ function renderPlayerProfile(player) {
   ];
   return '<button type="button" class="profile-back" id="profile-back">← Back to ' + escapeHtml(player.group) + '</button>' +
     '<section class="profile-card"><p class="eyebrow">PLAYER PROFILE · ' + escapeHtml(player.group) + '</p><h3>' + escapeHtml(player.name) + '</h3><p class="profile-handle">' + (player.handle ? '@' + escapeHtml(player.handle) : '') + '</p><div class="profile-stats">' + stats.map(([label, value]) => '<article><span>' + label + '</span><strong>' + escapeHtml(value) + '</strong></article>').join('') + '</div></section>' +
-    '<section class="profile-section"><h3>Recent results <span>' + results.length + '</span></h3>' + renderMatches(results, '', true, player.group) + '</section>' +
-    '<section class="profile-section"><h3>Upcoming fixtures <span>' + fixtures.length + '</span></h3>' + renderMatches(fixtures.map(match => [null, ...match.slice(0, 2), null, null, ...match.slice(2, 4)]), '', false, player.group) + '</section>';
+    '<section class="profile-section"><h3>Recent results <span>' + results.length + '</span></h3>' + renderMatches(results, '', true, player.group, player) + '</section>' +
+    '<section class="profile-section"><h3>Upcoming fixtures <span>' + fixtures.length + '</span></h3>' + renderMatches(fixtures.map(match => [null, ...match.slice(0, 2), null, null, ...match.slice(2, 4)]), '', false, player.group, player) + '</section>';
 }
 
 function renderFunFacts() {
