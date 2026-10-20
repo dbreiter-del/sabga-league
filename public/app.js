@@ -63,8 +63,32 @@ function renderMatches(rows, filter, isResult) {
     : '<div class="empty-state">No matches found for that player.</div>';
 }
 
+function renderFunFacts() {
+  const players = Object.entries(appData.leagues).flatMap(([group, league]) =>
+    (league.standings || []).map(row => ({ name: row[0], handle: row[1], played: Number(row[2]) || 0, pr: Number(row[8]), luck: Number(row[11]), group }))
+      .filter(player => player.played > 0)
+  );
+  const facts = [
+    { title: 'Highest PR', note: 'Highest average Performance Rating', value: Math.max(...players.map(player => player.pr).filter(Number.isFinite)), key: 'pr', accent: 'gold' },
+    { title: 'Luckiest player', note: 'Highest average luck', value: Math.max(...players.map(player => player.luck).filter(Number.isFinite)), key: 'luck', accent: 'green' },
+    { title: 'Unluckiest player', note: 'Lowest average luck', value: Math.min(...players.map(player => player.luck).filter(Number.isFinite)), key: 'luck', accent: 'slate' }
+  ];
+  return '<div class="facts-intro">A little league-wide trivia, based on players who have played at least one match.</div><div class="facts-grid">' + facts.map(fact => {
+    const player = players.find(item => item[fact.key] === fact.value);
+    return '<article class="fact-card fact-' + fact.accent + '"><span class="fact-label">' + fact.title + '</span><strong class="fact-value">' + fact.value.toFixed(2) + '</strong><span class="fact-note">' + fact.note + '</span><div class="fact-player"><strong>' + escapeHtml(player.name) + '</strong><span>' + (player.handle ? '@' + escapeHtml(player.handle) + ' · ' : '') + escapeHtml(player.group) + '</span></div></article>';
+  }).join('') + '</div><p class="facts-footnote">PR and luck are averages from the current league snapshot. Lower PR indicates stronger play.</p>';
+}
+
 function render() {
   const group = groupSelect.value;
+  const isFacts = group === '__fun_facts__';
+  ['#summary', '.tabs', '.search-box', '#refresh-button', '#data-note'].forEach(selector => $(selector).classList.toggle('hidden', isFacts));
+  if (isFacts) {
+    $('#panel-kicker').textContent = 'ACROSS ALL GROUPS';
+    $('#panel-title').textContent = 'League fun facts';
+    $('#content').innerHTML = renderFunFacts();
+    return;
+  }
   const league = currentLeague();
   if (!league) {
     $('#content').innerHTML = '<div class="empty-state">League data is unavailable. Please refresh the page.</div>';
@@ -74,7 +98,7 @@ function render() {
   $('#fixture-count').textContent = league.fixtures.length;
   $('#result-count').textContent = league.results.length;
   const titles = {
-    standings: ['THE TABLE', `${group} standings`],
+    standings: ['THE TABLE', group + ' standings'],
     fixtures: ['UP NEXT', 'Remaining fixtures'],
     results: ['RECENT FORM', 'Match results & PR']
   };
@@ -87,7 +111,7 @@ function render() {
     $('#content').innerHTML = renderMatches(fixtures, filter, false);
   }
   if (view === 'results') $('#content').innerHTML = renderMatches(league.results, filter, true);
-  $('#data-note').textContent = `All 11 league groups - Snapshot retrieved ${appData.fetched}. SABGA may update scores after this snapshot. Tap Refresh for the official live page.`;
+  $('#data-note').textContent = 'All 11 league groups - Snapshot retrieved ' + appData.fetched + '. SABGA may update scores after this snapshot. Tap Refresh for the official live page.';
 }
 
 document.querySelectorAll('[data-view]').forEach(button => button.addEventListener('click', () => {
