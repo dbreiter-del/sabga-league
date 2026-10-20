@@ -70,9 +70,9 @@ function renderFunFacts() {
   );
   const facts = [
     { title: 'Lowest PR', note: 'Lowest average Performance Rating', value: Math.min(...players.map(player => player.pr).filter(Number.isFinite)), key: 'pr', accent: 'gold' },
+    { title: 'Most PR wins', note: 'Performance Rating wins', value: Math.max(...players.map(player => player.prWins).filter(Number.isFinite)), key: 'prWins', accent: 'blue' },
     { title: 'Luckiest player', note: 'Highest average luck', value: Math.max(...players.map(player => player.luck).filter(Number.isFinite)), key: 'luck', accent: 'green' },
-    { title: 'Unluckiest player', note: 'Lowest average luck', value: Math.min(...players.map(player => player.luck).filter(Number.isFinite)), key: 'luck', accent: 'slate' },
-    { title: 'Most PR wins', note: 'Performance Rating wins', value: Math.max(...players.map(player => player.prWins).filter(Number.isFinite)), key: 'prWins', accent: 'blue' }
+    { title: 'Unluckiest player', note: 'Lowest average luck', value: Math.min(...players.map(player => player.luck).filter(Number.isFinite)), key: 'luck', accent: 'slate' }
   ];
   return '<div class="facts-intro">A little league-wide trivia, based on players who have played at least one match.</div><div class="facts-grid">' + facts.map(fact => {
     const player = players.find(item => item[fact.key] === fact.value);
