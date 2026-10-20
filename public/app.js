@@ -82,7 +82,7 @@ function renderFunFacts() {
 function render() {
   const group = groupSelect.value;
   const isFacts = group === '__fun_facts__';
-  ['#summary', '.tabs', '.search-box', '#refresh-button', '#data-note'].forEach(selector => $(selector).classList.toggle('hidden', isFacts));
+  ['#summary', '.tabs', '.bottom-nav', '.search-box', '#refresh-button', '#data-note'].forEach(selector => $(selector).classList.toggle('hidden', isFacts));
   if (isFacts) {
     $('#panel-kicker').textContent = 'ACROSS ALL GROUPS';
     $('#panel-title').textContent = 'League fun facts';
