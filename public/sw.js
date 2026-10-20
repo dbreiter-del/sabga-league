@@ -1,4 +1,4 @@
-const CACHE = 'sabga-leagues-v6';
+const CACHE = 'sabga-leagues-v7';
 const ASSETS = [
   './',
   './index.html',
