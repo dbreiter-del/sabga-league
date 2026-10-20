@@ -69,7 +69,7 @@ function renderFunFacts() {
       .filter(player => player.played > 0)
   );
   const facts = [
-    { title: 'Highest PR', note: 'Highest average Performance Rating', value: Math.max(...players.map(player => player.pr).filter(Number.isFinite)), key: 'pr', accent: 'gold' },
+    { title: 'Lowest PR', note: 'Lowest average Performance Rating', value: Math.min(...players.map(player => player.pr).filter(Number.isFinite)), key: 'pr', accent: 'gold' },
     { title: 'Luckiest player', note: 'Highest average luck', value: Math.max(...players.map(player => player.luck).filter(Number.isFinite)), key: 'luck', accent: 'green' },
     { title: 'Unluckiest player', note: 'Lowest average luck', value: Math.min(...players.map(player => player.luck).filter(Number.isFinite)), key: 'luck', accent: 'slate' }
   ];
