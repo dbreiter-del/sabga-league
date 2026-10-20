@@ -65,17 +65,18 @@ function renderMatches(rows, filter, isResult) {
 
 function renderFunFacts() {
   const players = Object.entries(appData.leagues).flatMap(([group, league]) =>
-    (league.standings || []).map(row => ({ name: row[0], handle: row[1], played: Number(row[2]) || 0, pr: Number(row[8]), luck: Number(row[11]), group }))
+    (league.standings || []).map(row => ({ name: row[0], handle: row[1], played: Number(row[2]) || 0, pr: Number(row[8]), luck: Number(row[11]), prWins: Number(row[6]), group }))
       .filter(player => player.played > 0)
   );
   const facts = [
     { title: 'Lowest PR', note: 'Lowest average Performance Rating', value: Math.min(...players.map(player => player.pr).filter(Number.isFinite)), key: 'pr', accent: 'gold' },
     { title: 'Luckiest player', note: 'Highest average luck', value: Math.max(...players.map(player => player.luck).filter(Number.isFinite)), key: 'luck', accent: 'green' },
-    { title: 'Unluckiest player', note: 'Lowest average luck', value: Math.min(...players.map(player => player.luck).filter(Number.isFinite)), key: 'luck', accent: 'slate' }
+    { title: 'Unluckiest player', note: 'Lowest average luck', value: Math.min(...players.map(player => player.luck).filter(Number.isFinite)), key: 'luck', accent: 'slate' },
+    { title: 'Most PR wins', note: 'Performance Rating wins', value: Math.max(...players.map(player => player.prWins).filter(Number.isFinite)), key: 'prWins', accent: 'blue' }
   ];
   return '<div class="facts-intro">A little league-wide trivia, based on players who have played at least one match.</div><div class="facts-grid">' + facts.map(fact => {
     const player = players.find(item => item[fact.key] === fact.value);
-    return '<article class="fact-card fact-' + fact.accent + '"><span class="fact-label">' + fact.title + '</span><strong class="fact-value">' + fact.value.toFixed(2) + '</strong><span class="fact-note">' + fact.note + '</span><div class="fact-player"><strong>' + escapeHtml(player.name) + '</strong><span>' + (player.handle ? '@' + escapeHtml(player.handle) + ' · ' : '') + escapeHtml(player.group) + '</span></div></article>';
+    return '<article class="fact-card fact-' + fact.accent + '"><span class="fact-label">' + fact.title + '</span><strong class="fact-value">' + (fact.key === 'prWins' ? fact.value : fact.value.toFixed(2)) + '</strong><span class="fact-note">' + fact.note + '</span><div class="fact-player"><strong>' + escapeHtml(player.name) + '</strong><span>' + (player.handle ? '@' + escapeHtml(player.handle) + ' · ' : '') + escapeHtml(player.group) + '</span></div></article>';
   }).join('') + '</div><p class="facts-footnote">PR and luck are averages from the current league snapshot. Lower PR indicates stronger play.</p>';
 }
 
